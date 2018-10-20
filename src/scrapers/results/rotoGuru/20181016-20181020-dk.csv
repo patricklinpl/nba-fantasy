@@ -1,0 +1,547 @@
+Position,Name,Fantasy Points,Salary,Away,Home,Score,Minutes,Stats,Site,ID,Date,First Name,Last Name
+PG/SG,"Curry, Stephen^",52.5,"$9,700",gsw,@ uta,124-123,37:08,31pt 4rb 8as 2st 4to 5trey 13-24fg 0-1ft,dk,4173x,2018-10-19,Stephen,Curry
+PG/SG,"Holiday, Jrue^",43.5,"$7,200",nor,v sac,149-129,26:56,15pt 6rb 10as 3st 3to 5-11fg 5-6ft,dk,4212x,2018-10-19,Jrue,Holiday
+PG,"Young, Trae^",40.5,"$5,600",atl,@ mem,117-131,33:05,20pt 2rb 9as 1st 1bl 3to 4trey 7-18fg 2-3ft,dk,5708x,2018-10-19,Trae,Young
+PG,"Conley, Mike^",40,"$6,800",mem,v atl,131-117,25:00,16pt 4rb 11as 2trey 6-13fg 2-3ft,dk,3979x,2018-10-19,Mike,Conley
+PG,"Walker, Kemba^",39,"$8,300",cha,@ orl,120-88,26:46,26pt 2rb 5as 1st 3to 5trey 8-17fg 5-5ft,dk,4440x,2018-10-19,Kemba,Walker
+PG/SG,"Bledsoe, Eric^",39,"$6,600",mil,v ind,118-101,26:02,12pt 6rb 7as 2st 2bl 2trey 5-9fg,dk,4266x,2018-10-19,Eric,Bledsoe
+PG,"Irving, Kyrie^",37,"$6,600",bos,@ tor,101-113,35:56,21pt 4rb 6as 1bl 1to 1trey 10-20fg,dk,4379x,2018-10-19,Kyrie,Irving
+PG/SG,"Brogdon, Malcolm^",34.5,"$4,900",mil,v ind,118-101,27:26,15pt 4rb 7as 2st 2to 2trey 6-9fg 1-1ft,dk,5013x,2018-10-19,Malcolm,Brogdon
+PG/SG,"Oladipo, Victor^",34.25,"$8,400",ind,@ mil,101-118,31:41,25pt 5rb 1as 1bl 2to 1trey 10-23fg 4-6ft,dk,4627x,2018-10-19,Victor,Oladipo
+PG,"Fox, De'Aaron^",33.75,"$6,500",sac,@ nor,129-149,26:55,18pt 7rb 6as 4to 6-12fg 6-7ft,dk,5132x,2018-10-19,De'Aaron,Fox
+PG/SG,"Russell, D'Angelo^",33.25,"$6,400",bkn,v nyk,107-105,33:46,15pt 5rb 6as 1st 1bl 4to 2trey 5-12fg 3-3ft,dk,4799x,2018-10-19,D'Angelo,Russell
+PG,"Rubio, Ricky^",33.25,"$6,300",uta,v gsw,123-124,32:51,13pt 3rb 10as 3to 3trey 5-12fg,dk,4414x,2018-10-19,Ricky,Rubio
+PG,"Lowry, Kyle^",33,"$7,500",tor,v bos,113-101,34:19,15pt 6rb 6as 3trey 5-8fg 2-4ft,dk,3891x,2018-10-19,Kyle,Lowry
+PG/SG,"Mitchell, Donovan^",32,"$7,800",uta,v gsw,123-124,34:41,19pt 2rb 3as 2st 4trey 7-23fg 1-2ft,dk,5136x,2018-10-19,Donovan,Mitchell
+PG,"Mason III, Frank",30.75,"$3,600",sac,@ nor,129-149,21:05,18pt 1rb 6as 1st 1trey 7-13fg 3-4ft,dk,5153x,2018-10-19,Frank,Mason III
+PG/SG,"VanVleet, Fred",29,"$4,600",tor,v bos,113-101,27:43,11pt 6rb 7as 2to 2trey 4-11fg 1-3ft,dk,4934x,2018-10-19,Fred,VanVleet
+PG,"Payton, Elfrid^",29,"$5,800",nor,v sac,149-129,24:05,11pt 6rb 6as 1bl 2to 1trey 5-7fg,dk,4699x,2018-10-19,Elfrid,Payton
+PG,"Rose, Derrick",29,"$3,900",min,v cle,131-123,23:23,12pt 4rb 8as 3-6fg 6-6ft,dk,4073x,2018-10-19,Derrick,Rose
+PG/SG,"Clarkson, Jordan",28,"$4,700",cle,@ min,123-131,23:42,19pt 4rb 1as 1st 1bl 3to 8-14fg 3-3ft,dk,4668x,2018-10-19,Jordan,Clarkson
+PG/SG,"Burke, Trey^",23.25,"$5,700",nyk,@ bkn,105-107,29:56,8pt 5rb 4as 1st 2trey 3-11fg,dk,4615x,2018-10-19,Trey,Burke
+PG/SG,"Felton, Raymond",23,"$3,600",okc,@ lac,92-108,17:59,12pt 4rb 3as 1bl 1to 5-12fg 2-2ft,dk,3747x,2018-10-19,Raymond,Felton
+PG,"Ntilikina, Frank^",22.75,"$4,700",nyk,@ bkn,105-107,30:42,9pt 1rb 4as 3st 1trey 4-9fg,dk,5219x,2018-10-19,Frank,Ntilikina
+PG,"Teague, Jeff^",22.75,"$6,400",min,v cle,131-123,31:28,9pt 3rb 7as 1to 3-9fg 3-3ft,dk,4221x,2018-10-19,Jeff,Teague
+PG/SG,"Williams, Louis",21.75,"$5,800",lac,v okc,108-92,26:29,17pt 1rb 1as 1st 2to 2trey 4-12fg 7-7ft,dk,3816x,2018-10-19,Louis,Williams
+PG/SG,"Rozier, Terry",21.75,"$4,400",bos,@ tor,101-113,23:13,8pt 5rb 3as 1st 2trey 2-7fg 2-2ft,dk,4823x,2018-10-19,Terry,Rozier
+PG/SG,"Dinwiddie, Spencer",21.75,"$5,900",bkn,v nyk,107-105,31:06,10pt 3rb 6as 4to 2trey 4-12fg,dk,4760x,2018-10-19,Spencer,Dinwiddie
+PG/SG,"Schroder, Dennis^",21,"$7,700",okc,@ lac,92-108,30:01,8pt 2rb 8as 3to 2-15fg 4-4ft,dk,4595x,2018-10-19,Dennis,Schroder
+PG/SG,"Beverley, Patrick^",19.5,"$4,700",lac,v okc,108-92,24:44,7pt 4rb 5as 1to 1trey 1-5fg 4-4ft,dk,4234x,2018-10-19,Patrick,Beverley
+SG,"Thompson, Klay^",19.5,"$6,200",gsw,@ uta,124-123,35:53,12pt 4rb 1as 1bl 2to 4-9fg 4-4ft,dk,4367x,2018-10-19,Klay,Thompson
+SG,"Iwundu, Wes",18,"$3,000",orl,v cha,88-120,14:52,11pt 4rb 1st 4-11fg 3-5ft,dk,5152x,2018-10-19,Wes,Iwundu
+PG,"Sexton, Collin",18,"$4,500",cle,@ min,123-131,23:03,14pt 2rb 1as 6-9fg 2-2ft,dk,5721x,2018-10-19,Collin,Sexton
+PG,"Collison, Darren^",17.5,"$4,800",ind,@ mil,101-118,26:48,10pt 2rb 3as 1st 3to 4-6fg 2-2ft,dk,4228x,2018-10-19,Darren,Collison
+PG,"Grant, Jerian",16.75,"$3,500",orl,v cha,88-120,24:59,7pt 1rb 2as 3st 2to 1trey 3-7fg,dk,4873x,2018-10-19,Jerian,Grant
+PG,"Briscoe, Isaiah",16.25,"$3,000",orl,v cha,88-120,10:04,10pt 1rb 3as 1trey 4-5fg 1-3ft,dk,5181x,2018-10-19,Isaiah,Briscoe
+PG,"Livingston, Shaun",16.25,"$3,400",gsw,@ uta,124-123,18:17,8pt 3rb 2as 1st 1to 3-4fg 2-2ft,dk,3651x,2018-10-19,Shaun,Livingston
+SG,"Monk, Malik",15.75,"$4,700",cha,@ orl,120-88,23:37,11pt 1rb 2as 1to 2trey 4-12fg 1-1ft,dk,5133x,2018-10-19,Malik,Monk
+PG/SG,"Smart, Marcus",15.5,"$4,200",bos,@ tor,101-113,21:52,2pt 2rb 6as 1bl 1-6fg,dk,4677x,2018-10-19,Marcus,Smart
+PG/SG,"Exum, Dante",15.5,"$4,300",uta,v gsw,123-124,18:12,13pt 2rb 1to 1trey 4-5fg 4-4ft,dk,4707x,2018-10-19,Dante,Exum
+PG/SG,"Clark, Ian",15,"$3,300",nor,v sac,149-129,17:53,13pt 1as 2to 3trey 4-4fg 2-2ft,dk,4611x,2018-10-19,Ian,Clark
+PG,"Mack, Shelvin",14.5,"$3,400",mem,v atl,131-117,25:00,9pt 2rb 1as 1st 1to 3-5fg 3-4ft,dk,4377x,2018-10-19,Shelvin,Mack
+PG/SG,"Ferrell, Yogi^",14.5,"$4,000",sac,@ nor,129-149,21:05,7pt 2rb 2as 1st 1to 1trey 2-3fg 2-2ft,dk,4970x,2018-10-19,Yogi,Ferrell
+PG/SG,"Lin, Jeremy",14,"$4,200",atl,@ mem,117-131,17:19,9pt 2rb 2as 1to 3-5fg 3-4ft,dk,4297x,2018-10-19,Jeremy,Lin
+PG/SG,"Jones, Tyus",13.5,"$3,300",min,v cle,131-123,16:35,8pt 3as 2trey 3-6fg,dk,4876x,2018-10-19,Tyus,Jones
+PG,"Trier, Allonzo",13.25,"$3,400",nyk,@ bkn,105-107,15:31,8pt 3rb 1st 1to 2-8fg 4-4ft,dk,5701x,2018-10-19,Allonzo,Trier
+PG,"Parker, Tony",11.75,"$3,600",cha,@ orl,120-88,16:12,0pt 3rb 6as 2to 0-5fg,dk,3313x,2018-10-19,Tony,Parker
+SG,"DiVincenzo, Donte",11,"$3,500",mil,v ind,118-101,20:14,8pt 2rb 1st 4to 1trey 2-5fg 3-4ft,dk,5740x,2018-10-19,Donte,DiVincenzo
+PG/SG,"Hill, George^",10.75,"$5,000",cle,@ min,123-131,24:57,7pt 1rb 2as 1to 3-7fg 1-2ft,dk,4102x,2018-10-19,George,Hill
+PG,"Gilgeous-Alexander, Shai",10.75,"$3,800",lac,v okc,108-92,23:16,2pt 3rb 4as 2to 0-2fg 2-2ft,dk,5690x,2018-10-19,Shai,Gilgeous-Alexander
+SG,"Bradley, Avery^",10.5,"$4,300",lac,v okc,108-92,28:52,3pt 2rb 2as 1st 1to 1trey 1-8fg,dk,4269x,2018-10-19,Avery,Bradley
+SG,"Bacon, Dwayne",9,"$3,000",cha,@ orl,120-88,7:57,7pt 1as 1trey 2-5fg 2-2ft,dk,5179x,2018-10-19,Dwayne,Bacon
+PG,"Jackson, Frank",8.5,"$3,300",nor,v sac,149-129,5:59,5pt 2as 1trey 2-3fg,dk,5168x,2018-10-19,Frank,Jackson
+SG,"Huerter, Kevin",8.5,"$3,000",atl,@ mem,117-131,13:06,3pt 2rb 2as 1-3fg 1-1ft,dk,5754x,2018-10-19,Kevin,Huerter
+SG,"Diallo, Hamidou",6.75,"$3,300",okc,@ lac,92-108,8:32,3pt 3rb 0-1fg 3-4ft,dk,5737x,2018-10-19,Hamidou,Diallo
+PG,"Dorsey, Tyler",6.5,"$3,400",atl,@ mem,117-131,12:05,3pt 2as 1trey 1-3fg,dk,5158x,2018-10-19,Tyler,Dorsey
+SG,"Brooks, Dillon",6.25,"$4,000",mem,v atl,131-117,17:05,4pt 1rb 1as 1to 1-7fg 2-4ft,dk,5173x,2018-10-19,Dillon,Brooks
+PG,"Joseph, Cory",5.75,"$3,800",ind,@ mil,101-118,17:48,3pt 1rb 1st 1to 1-4fg 1-2ft,dk,4405x,2018-10-19,Cory,Joseph
+PG,"Augustin, D.J.^",5.25,"$4,400",orl,v cha,88-120,20:54,2pt 1rb 2as 2to 1-5fg,dk,4078x,2018-10-19,D.J.,Augustin
+SG,"Burks, Alec",5,"$4,100",uta,v gsw,123-124,11:43,5pt 1-7fg 3-3ft,dk,4441x,2018-10-19,Alec,Burks
+SG,"Selden, Wayne",4.25,"$3,600",mem,v atl,131-117,7:32,4pt 1rb 2to 1-1fg 2-2ft,dk,4986x,2018-10-19,Wayne,Selden
+PG,"Holiday, Aaron",2.75,"$3,300",ind,@ mil,101-118,4:14,0pt 1rb 1as 0-2fg,dk,5747x,2018-10-19,Aaron,Holiday
+PG/SG,"Baker, Ron",2.5,"$3,200",nyk,@ bkn,105-107,18:04,1pt 1as 0-3fg 1-2ft,dk,5006x,2018-10-19,Ron,Baker
+SG,"Brown, Sterling",2,"$3,000",mil,v ind,118-101,3:44,2pt 1-1fg,dk,5184x,2018-10-19,Sterling,Brown
+PG/SG,"Frazier, Tim",1.5,"$3,000",nor,v sac,149-129,4:09,0pt 1as 0-1fg,dk,4717x,2018-10-19,Tim,Frazier
+PG,"Sumner, Edmond",1.5,"$3,000",ind,@ mil,101-118,4:14,0pt 1as 0-2ft,dk,5144x,2018-10-19,Edmond,Sumner
+PG/SG,"Dellavedova, Matthew",1.25,"$3,200",mil,v ind,118-101,4:14,0pt 1rb 0-1fg,dk,4610x,2018-10-19,Matthew,Dellavedova
+PG,"Cook, Quinn",0,"$3,200",gsw,@ uta,124-123,3:06,0pt,dk,4863x,2018-10-19,Quinn,Cook
+SG,"Burton, Deonte",0,"$3,000",okc,@ lac,92-108,00:55,0pt,dk,5752x,2018-10-19,Deonte,Burton
+SG,"Smith, J.R.",-0.5,"$3,600",cle,@ min,123-131,3:40,0pt 1to 0-1fg,dk,3669x,2018-10-19,J.R.,Smith
+SF/PF,"Durant, Kevin^",63.25,"$9,600",gsw,@ uta,124-123,39:38,38pt 9rb 7as 1st 1bl 2to 1trey 14-25fg 9-9ft,dk,3986x,2018-10-19,Kevin,Durant
+SG/SF,"Butler, Jimmy^",57.75,"$8,100",min,v cle,131-123,36:05,33pt 7rb 3as 4st 2bl 2to 1trey 10-12fg 12-12ft,dk,4363x,2018-10-19,Jimmy,Butler
+SF/PF,"Antetokounmpo, Giannis^",56.75,"$11,000",mil,v ind,118-101,31:59,26pt 15rb 5as 2st 1bl 6to 12-23fg 2-3ft,dk,4621x,2018-10-19,Giannis,Antetokounmpo
+SF/PF,"Mirotic, Nikola^",52.75,"$7,000",nor,v sac,149-129,31:19,36pt 9rb 2as 5trey 14-21fg 3-6ft,dk,4682x,2018-10-19,Nikola,Mirotic
+SG/SF,"Leonard, Kawhi^",51,"$8,500",tor,v bos,113-101,35:52,31pt 10rb 3as 1st 3to 2trey 10-25fg 9-9ft,dk,4404x,2018-10-19,Kawhi,Leonard
+SF/PF,"Harris, Tobias^",49.5,"$7,400",lac,v okc,108-92,37:05,26pt 10rb 4as 1st 1bl 3to 2trey 10-22fg 4-8ft,dk,4412x,2018-10-19,Tobias,Harris
+SG/SF,"Ingles, Joe^",47,"$6,100",uta,v gsw,123-124,35:41,27pt 4rb 4as 2st 1bl 1to 7trey 10-15fg,dk,4701x,2018-10-19,Joe,Ingles
+SG/SF,"Temple, Garrett^",44,"$3,600",mem,v atl,131-117,33:49,30pt 4rb 2as 1st 1bl 1to 5trey 10-11fg 5-7ft,dk,4199x,2018-10-19,Garrett,Temple
+SF,"Prince, Taurean^",43.5,"$6,200",atl,@ mem,117-131,23:03,28pt 4rb 3as 3st 4to 4trey 10-15fg 4-4ft,dk,4938x,2018-10-19,Taurean,Prince
+SF,"LeVert, Caris^",42,"$6,300",bkn,v nyk,107-105,32:23,28pt 6rb 5as 4to 2trey 8-13fg 10-11ft,dk,4992x,2018-10-19,Caris,LeVert
+PF,"Jackson, Jaren",41.75,"$4,600",mem,v atl,131-117,27:36,24pt 7rb 2as 1st 2bl 2to 2trey 8-12fg 6-9ft,dk,5731x,2018-10-19,Jaren,Jackson
+PF,"Bagley, Marvin",41,"$4,800",sac,@ nor,129-149,32:38,19pt 8rb 3as 3st 1bl 1to 7-10fg 5-6ft,dk,5714x,2018-10-19,Marvin,Bagley
+SF,"Osman, Cedi^",40.25,"$5,400",cle,@ min,123-131,35:06,22pt 3rb 8as 1st 3to 4trey 9-17fg 0-2ft,dk,5116x,2018-10-19,Cedi,Osman
+SF/PF,"George, Paul^",40,"$8,700",okc,@ lac,92-108,38:07,20pt 8rb 4as 2st 3to 3trey 7-27fg 3-3ft,dk,4283x,2018-10-19,Paul,George
+SG/SF,"Hardaway Jr., Tim^",38,"$7,300",nyk,@ bkn,105-107,36:28,29pt 2rb 3st 2to 3trey 10-25fg 6-7ft,dk,4628x,2018-10-19,Tim,Hardaway Jr.
+SG/SF,"Middleton, Khris^",37,"$7,600",mil,v ind,118-101,30:34,23pt 4rb 4as 1st 3to 5trey 7-15fg 4-6ft,dk,4490x,2018-10-19,Khris,Middleton
+SF/PF,"Crowder, Jae",36.75,"$4,600",uta,v gsw,123-124,28:33,17pt 7rb 4as 2st 2trey 4-9fg 7-7ft,dk,4472x,2018-10-19,Jae,Crowder
+SF/PF,"Gallinari, Danilo^",35.75,"$5,900",lac,v okc,108-92,26:36,26pt 5rb 1as 4trey 10-16fg 2-3ft,dk,4082x,2018-10-19,Danilo,Gallinari
+SG/SF,"Wiggins, Andrew^",34.75,"$6,200",min,v cle,131-123,36:32,22pt 3rb 2as 3st 1to 1trey 8-21fg 5-5ft,dk,4704x,2018-10-19,Andrew,Wiggins
+SG/SF,"Batum, Nicolas^",34.5,"$6,000",cha,@ orl,120-88,29:59,15pt 6rb 5as 2st 2to 3trey 6-8fg,dk,4086x,2018-10-19,Nicolas,Batum
+SF/PF,"Kidd-Gilchrist, Michael",34.25,"$3,800",cha,@ orl,120-88,22:29,12pt 9rb 5as 2bl 1to 5-8fg 2-4ft,dk,4532x,2018-10-19,Michael,Kidd-Gilchrist
+SF/PF,"Tatum, Jayson^",32.75,"$6,500",bos,@ tor,101-113,36:47,16pt 9rb 2as 1st 1bl 5to 2trey 6-16fg 2-2ft,dk,5111x,2018-10-19,Jayson,Tatum
+SF,"Bridges, Miles",31,"$4,000",cha,@ orl,120-88,14:24,15pt 8rb 2as 1bl 1to 3trey 6-8fg,dk,5657x,2018-10-19,Miles,Bridges
+SG/SF,"Green, Danny^",30.25,"$4,500",tor,v bos,113-101,32:28,14pt 5rb 3as 1st 1bl 1to 4trey 5-8fg,dk,4193x,2018-10-19,Danny,Green
+SG/SF,"Hayward, Gordon^",27.75,"$5,800",bos,@ tor,101-113,24:17,14pt 7rb 2as 1st 1to 1trey 6-13fg 1-1ft,dk,4285x,2018-10-19,Gordon,Hayward
+SG/SF,"Evans, Tyreke",27.25,"$6,100",ind,@ mil,101-118,22:38,10pt 5rb 4as 2st 1bl 3to 1trey 4-10fg 1-2ft,dk,4207x,2018-10-19,Tyreke,Evans
+SF/PF,"Gordon, Aaron^",27,"$8,200",orl,v cha,88-120,24:54,5pt 10rb 2as 2st 2bl 3to 2-9fg 1-1ft,dk,4705x,2018-10-19,Aaron,Gordon
+SG/SF,"Hield, Buddy^",26.5,"$5,600",sac,@ nor,129-149,26:50,17pt 2rb 3as 1bl 2to 3trey 7-11fg,dk,4961x,2018-10-19,Buddy,Hield
+SF,"Knox, Kevin",26,"$4,500",nyk,@ bkn,105-107,28:08,17pt 6rb 3trey 7-14fg,dk,5705x,2018-10-19,Kevin,Knox
+PF,"Gibson, Taj^",25,"$4,600",min,v cle,131-123,28:10,13pt 8rb 2as 2to 5-10fg 3-4ft,dk,4167x,2018-10-19,Taj,Gibson
+SF,"Poythress, Alex",24.25,"$3,500",atl,@ mem,117-131,21:29,8pt 7rb 2as 1st 1bl 1trey 3-4fg 1-4ft,dk,4985x,2018-10-19,Alex,Poythress
+SF/PF,"Anderson, Kyle",22.5,"$4,300",mem,v atl,131-117,19:53,3pt 4rb 4as 4st 1bl 3to 1-3fg 1-2ft,dk,4736x,2018-10-19,Kyle,Anderson
+SG/SF,"Lamb, Jeremy^",22.25,"$5,500",cha,@ orl,120-88,25:05,8pt 7rb 1as 1st 1bl 2-7fg 4-4ft,dk,4514x,2018-10-19,Jeremy,Lamb
+SF/PF,"Jerebko, Jonas",21.5,"$3,300",gsw,@ uta,124-123,23:46,10pt 6rb 1as 1st 1to 2trey 4-5fg,dk,4187x,2018-10-19,Jonas,Jerebko
+SF/PF,"Dudley, Jared^",20.25,"$3,300",bkn,v nyk,107-105,27:04,7pt 5rb 3as 1st 1trey 3-5fg,dk,3985x,2018-10-19,Jared,Dudley
+SG/SF,"Bazemore, Kent^",19.5,"$5,500",atl,@ mem,117-131,22:01,3pt 8rb 1as 2st 1bl 2to 1-3fg 1-4ft,dk,4507x,2018-10-19,Kent,Bazemore
+SF/PF,"Grant, Jerami",19.5,"$4,100",okc,@ lac,92-108,27:38,4pt 8rb 2as 2bl 3to 1-4fg 2-4ft,dk,4765x,2018-10-19,Jerami,Grant
+SF/PF,"McDermott, Doug",19.5,"$3,500",ind,@ mil,101-118,20:21,14pt 1as 1st 4trey 5-8fg,dk,4669x,2018-10-19,Doug,McDermott
+SF,"Bembry, DeAndre",19.25,"$3,900",atl,@ mem,117-131,32:26,12pt 3rb 1as 1st 1bl 5to 1trey 4-11fg 3-6ft,dk,5001x,2018-10-19,DeAndre,Bembry
+SF/PF,"Casspi, Omri",19,"$3,200",mem,v atl,131-117,24:03,11pt 4rb 2as 4-8fg 3-6ft,dk,4209x,2018-10-19,Omri,Casspi
+SG/SF,"Brown, Jaylen^",19,"$5,400",bos,@ tor,101-113,24:10,13pt 4rb 1to 3trey 5-10fg 0-2ft,dk,5017x,2018-10-19,Jaylen,Brown
+SF/PF,"Tolliver, Anthony",18.5,"$3,300",min,v cle,131-123,19:47,11pt 2rb 2st 1to 3trey 3-7fg 2-3ft,dk,4049x,2018-10-19,Anthony,Tolliver
+SF/PF,"Green, JaMychal^",17.75,"$4,700",mem,v atl,131-117,14:01,6pt 5rb 2as 2st 3to 2-8fg 2-2ft,dk,4581x,2018-10-19,JaMychal,Green
+SF/PF,"Parsons, Chandler^",17.5,"$3,700",mem,v atl,131-117,17:17,11pt 2rb 2as 1to 3trey 4-6fg,dk,4461x,2018-10-19,Chandler,Parsons
+SG/SF,"Ross, Terrence",17.25,"$3,600",orl,v cha,88-120,19:02,14pt 1rb 1st 1to 1trey 4-10fg 5-5ft,dk,4549x,2018-10-19,Terrence,Ross
+SG/SF,"Carter, Vince^",17,"$3,600",atl,@ mem,117-131,20:15,10pt 2rb 1as 1bl 2trey 2-7fg 4-4ft,dk,2448x,2018-10-19,Vince,Carter
+SG/SF,"Harris, Joe^",17,"$4,500",bkn,v nyk,107-105,22:37,11pt 4rb 1as 4to 3trey 4-6fg,dk,4733x,2018-10-19,Joe,Harris
+SG/SF,"Moore, E'Twaun^",17,"$4,300",nor,v sac,149-129,23:42,10pt 2as 1st 1bl 5-11fg,dk,4364x,2018-10-19,E'Twaun,Moore
+PF,"Kurucs, Rodions",16.75,"$3,100",bkn,v nyk,107-105,17:19,11pt 5rb 2to 1trey 3-8fg 4-4ft,dk,5735x,2018-10-19,Rodions,Kurucs
+SG/SF,"Fournier, Evan^",16.5,"$5,200",orl,v cha,88-120,25:05,12pt 2rb 1as 1to 2trey 5-15fg,dk,4468x,2018-10-19,Evan,Fournier
+PF,"Niang, Georges",16.25,"$3,000",uta,v gsw,123-124,8:41,8pt 3rb 1as 1bl 2trey 3-7fg,dk,5015x,2018-10-19,Georges,Niang
+SG/SF,"Abrines, Alex",16,"$3,400",okc,@ lac,92-108,32:06,10pt 2rb 1as 1st 2to 2trey 4-10fg,dk,4943x,2018-10-19,Alex,Abrines
+SG/SF,"Hood, Rodney^",15.75,"$4,800",cle,@ min,123-131,29:09,10pt 1rb 2as 1st 1to 3-10fg 4-4ft,dk,4744x,2018-10-19,Rodney,Hood
+SF/PF,"Miller, Darius",15.25,"$3,400",nor,v sac,149-129,22:45,10pt 1rb 2as 1to 3trey 3-7fg 1-1ft,dk,4484x,2018-10-19,Darius,Miller
+SG/SF,"Snell, Tony",15,"$3,200",mil,v ind,118-101,17:50,10pt 2rb 1as 2trey 4-7fg 0-1ft,dk,4571x,2018-10-19,Tony,Snell
+SF/PF,"Morris, Marcus",14,"$4,400",bos,@ tor,101-113,25:45,8pt 2rb 1as 1bl 2to 2trey 3-7fg,dk,4407x,2018-10-19,Marcus,Morris
+SF,"Anunoby, OG",14,"$3,500",tor,v bos,113-101,21:18,9pt 4rb 1to 1trey 4-6fg,dk,5241x,2018-10-19,OG,Anunoby
+SF/PF,"Williams, Marvin^",13.5,"$4,300",cha,@ orl,120-88,20:29,8pt 4rb 1to 2trey 3-7fg,dk,3817x,2018-10-19,Marvin,Williams
+SG/SF,"Shumpert, Iman",13,"$3,000",sac,@ nor,129-149,20:44,9pt 2rb 3trey 3-4fg,dk,4397x,2018-10-19,Iman,Shumpert
+PF,"Giles, Harry",12.5,"$4,000",sac,@ nor,129-149,18:40,7pt 4rb 1as 2to 3-11fg 1-4ft,dk,5167x,2018-10-19,Harry,Giles
+PF,"Siakam, Pascal^",12.25,"$4,200",tor,v bos,113-101,17:36,4pt 5rb 2as 2to 2-6fg,dk,4929x,2018-10-19,Pascal,Siakam
+SG/SF,"Simmons, Jonathon",12.25,"$4,400",orl,v cha,88-120,22:41,7pt 3rb 1as 1to 1trey 3-9fg,dk,4890x,2018-10-19,Jonathon,Simmons
+SG/SF,"Crabbe, Allen",12,"$4,200",bkn,v nyk,107-105,18:16,5pt 4rb 1bl 1to 1trey 2-7fg,dk,4561x,2018-10-19,Allen,Crabbe
+SF,"Jackson, Justin",10,"$3,700",sac,@ nor,129-149,21:22,2pt 4rb 1as 1st 1to 1-6fg,dk,5135x,2018-10-19,Justin,Jackson
+SF/PF,"Dekker, Sam",9.75,"$3,200",cle,@ min,123-131,8:54,5pt 1rb 1as 1st 1to 1trey 1-3fg 2-2ft,dk,4856x,2018-10-19,Sam,Dekker
+SF/PF,"Young, Thaddeus^",9.25,"$5,000",ind,@ mil,101-118,26:56,7pt 1rb 1st 2to 3-5fg 1-2ft,dk,4037x,2018-10-19,Thaddeus,Young
+PF,"Isaac, Jonathan^",9.25,"$4,400",orl,v cha,88-120,14:25,2pt 5rb 1st 2to 1-3fg,dk,5137x,2018-10-19,Jonathan,Isaac
+SG/SF,"Bogdanovic, Bojan^",8.75,"$4,700",ind,@ mil,101-118,27:19,3pt 5rb 1to 0-7fg 3-4ft,dk,4709x,2018-10-19,Bojan,Bogdanovic
+SF/PF,"Mbah a Moute, Luc",8.25,"$3,000",lac,v okc,108-92,19:00,7pt 1rb 1to 1trey 3-3fg,dk,4113x,2018-10-19,Luc,Mbah a Moute
+SG/SF,"Powell, Norman",8,"$3,300",tor,v bos,113-101,10:27,2pt 2rb 1as 1st 1-5fg,dk,4792x,2018-10-19,Norman,Powell
+SF/PF,"Thomas, Lance^",7.5,"$3,400",nyk,@ bkn,105-107,21:05,0pt 2rb 2as 1st 0-4fg,dk,4384x,2018-10-19,Lance,Thomas
+PF,"McKinnie, Alfonzo",7.5,"$3,000",gsw,@ uta,124-123,12:21,3pt 2rb 1st 1to 1trey 1-2fg,dk,5230x,2018-10-19,Alfonzo,McKinnie
+SF/PF,"Hill, Solomon",7.25,"$3,200",nor,v sac,149-129,20:21,3pt 1rb 2as 1to 1trey 1-2fg,dk,4566x,2018-10-19,Solomon,Hill
+SF/PF,"Bjelica, Nemanja^",6.75,"$4,600",sac,@ nor,129-149,10:51,4pt 1rb 1as 2-5fg,dk,4875x,2018-10-19,Nemanja,Bjelica
+PF,"Diallo, Cheick",6,"$3,200",nor,v sac,149-129,4:09,4pt 2rb 1to 2-2fg,dk,4957x,2018-10-19,Cheick,Diallo
+PF,"Johnson, Alize",5.75,"$3,000",ind,@ mil,101-118,4:14,2pt 3rb 1-2fg,dk,5764x,2018-10-19,Alize,Johnson
+SF/PF,"Hezonja, Mario",4.75,"$4,600",nyk,@ bkn,105-107,13:19,2pt 1rb 1as 1-3fg,dk,4776x,2018-10-19,Mario,Hezonja
+SF,"Ferguson, Terrance^",4.5,"$3,200",okc,@ lac,92-108,17:15,4pt 1trey 1-6fg 1-2ft,dk,5225x,2018-10-19,Terrance,Ferguson
+SG/SF,"Miles, C.J.",4,"$3,500",tor,v bos,113-101,12:17,2pt 1bl 1-6fg,dk,3783x,2018-10-19,C.J.,Miles
+SG/SF,"McLemore, Ben",3.5,"$3,200",sac,@ nor,129-149,5:59,3pt 1trey 1-3fg,dk,4589x,2018-10-19,Ben,McLemore
+SF/PF,"Scott, Mike",3,"$3,300",lac,v okc,108-92,4:21,0pt 2as,dk,4488x,2018-10-19,Mike,Scott
+SG/SF,"Graham, Treveon",2,"$3,000",bkn,v nyk,107-105,9:43,0pt 2rb 1to 0-1fg,dk,4804x,2018-10-19,Treveon,Graham
+SG/SF,"Connaughton, Pat",1.5,"$3,000",mil,v ind,118-101,3:44,0pt 1as 0-2fg,dk,4811x,2018-10-19,Pat,Connaughton
+SG/SF,"Korver, Kyle",1.25,"$3,400",cle,@ min,123-131,5:14,0pt 1rb 0-1fg,dk,3547x,2018-10-19,Kyle,Korver
+PF,"Birch, Khem",1.25,"$3,200",orl,v cha,88-120,10:04,0pt 1rb 0-1fg,dk,4696x,2018-10-19,Khem,Birch
+SF,"O'Neale, Royce",-1,"$3,300",uta,v gsw,123-124,10:52,0pt 2to,dk,5182x,2018-10-19,Royce,O'Neale
+PF/C,"Love, Kevin^",62.75,"$8,000",cle,@ min,123-131,39:28,25pt 19rb 7as 1bl 3to 3trey 6-19fg 10-10ft,dk,4074x,2018-10-19,Kevin,Love
+PF/C,"Davis, Anthony^",54.5,"$11,600",nor,v sac,149-129,26:45,25pt 10rb 6as 2st 2bl 4to 1trey 8-12fg 8-12ft,dk,4482x,2018-10-19,Anthony,Davis
+C,"Kanter, Enes^",48,"$7,400",nyk,@ bkn,105-107,35:20,29pt 10rb 2as 1st 12-18fg 5-5ft,dk,4442x,2018-10-19,Enes,Kanter
+PF/C,"Horford, Al^",45.5,"$6,100",bos,@ tor,101-113,33:26,14pt 10rb 9as 1st 1bl 3to 3trey 5-12fg 1-1ft,dk,3998x,2018-10-19,Al,Horford
+C,"Adams, Steven^",43,"$6,900",okc,@ lac,92-108,33:19,17pt 18rb 1st 8-11fg 1-2ft,dk,4574x,2018-10-19,Steven,Adams
+C,"Gobert, Rudy^",40.25,"$7,900",uta,v gsw,123-124,34:41,16pt 11rb 2as 3st 1bl 4to 4-6fg 8-11ft,dk,4620x,2018-10-19,Rudy,Gobert
+PF/C,"Green, Draymond^",38.25,"$6,700",gsw,@ uta,124-123,33:12,14pt 9rb 6as 1st 2bl 5to 1trey 6-12fg 1-2ft,dk,4504x,2018-10-19,Draymond,Green
+C,"Allen, Jarrett^",37.25,"$6,000",bkn,v nyk,107-105,33:32,15pt 11rb 4bl 2to 6-8fg 3-4ft,dk,5139x,2018-10-19,Jarrett,Allen
+C,"Vucevic, Nikola^",35,"$7,500",orl,v cha,88-120,22:23,12pt 8rb 4as 4bl 2to 6-11fg,dk,4373x,2018-10-19,Nikola,Vucevic
+PF/C,"Ibaka, Serge^",33.5,"$5,300",tor,v bos,113-101,33:32,21pt 6rb 2as 1bl 1to 1trey 10-14fg 0-1ft,dk,4104x,2018-10-19,Serge,Ibaka
+C,"Towns, Karl-Anthony^",33.25,"$9,100",min,v cle,131-123,34:41,12pt 9rb 2as 4bl 4to 2trey 4-10fg 2-2ft,dk,4879x,2018-10-19,Karl-Anthony,Towns
+PF/C,"Sabonis, Domantas",33.25,"$5,900",ind,@ mil,101-118,22:10,12pt 13rb 2as 1st 3to 4-6fg 4-4ft,dk,4921x,2018-10-19,Domantas,Sabonis
+PF/C,"Thompson, Tristan^",32.5,"$4,700",cle,@ min,123-131,35:56,14pt 10rb 2as 1bl 1to 7-9fg,dk,4380x,2018-10-19,Tristan,Thompson
+PF/C,"Randle, Julius",32,"$7,100",nor,v sac,149-129,24:25,13pt 14rb 1to 1trey 6-12fg 0-4ft,dk,4680x,2018-10-19,Julius,Randle
+C,"Cauley-Stein, Willie^",29.75,"$6,300",sac,@ nor,129-149,25:57,20pt 7rb 1as 1to 9-14fg 2-3ft,dk,4817x,2018-10-19,Willie,Cauley-Stein
+C,"Gasol, Marc^",28.75,"$7,200",mem,v atl,131-117,28:44,13pt 7rb 5as 2to 1trey 4-7fg 4-4ft,dk,3990x,2018-10-19,Marc,Gasol
+C,"Henson, John",28.25,"$3,600",mil,v ind,118-101,22:26,10pt 9rb 3bl 2trey 3-7fg 2-4ft,dk,4525x,2018-10-19,John,Henson
+C,"Plumlee, Miles",23.5,"$3,300",atl,@ mem,117-131,18:55,12pt 6rb 2as 1st 2to 5-6fg 2-6ft,dk,4542x,2018-10-19,Miles,Plumlee
+C,"Zeller, Cody^",23,"$4,300",cha,@ orl,120-88,22:45,8pt 8rb 2as 1st 3-7fg 2-2ft,dk,4614x,2018-10-19,Cody,Zeller
+C,"Gortat, Marcin^",20.5,"$4,400",lac,v okc,108-92,20:28,4pt 12rb 1as 2-5fg 0-1ft,dk,3756x,2018-10-19,Marcin,Gortat
+C,"Marjanovic, Boban",19.25,"$3,900",lac,v okc,108-92,16:05,13pt 5rb 4-6fg 5-7ft,dk,4893x,2018-10-19,Boban,Marjanovic
+PF/C,"Davis, Ed",19,"$3,900",bkn,v nyk,107-105,14:14,5pt 10rb 1as 2-3fg 1-2ft,dk,4276x,2018-10-19,Ed,Davis
+PF/C,"Dieng, Gorgui",19,"$3,600",min,v cle,131-123,13:19,11pt 4rb 1as 1bl 2to 1trey 5-6fg,dk,4632x,2018-10-19,Gorgui,Dieng
+C,"Jones, Damian^",18.5,"$3,800",gsw,@ uta,124-123,18:03,4pt 4rb 1as 2st 2bl 2-3fg,dk,4933x,2018-10-19,Damian,Jones
+C,"Lopez, Brook^",17.75,"$4,900",mil,v ind,118-101,22:16,8pt 3rb 2as 1bl 2trey 3-10fg,dk,4075x,2018-10-19,Brook,Lopez
+C,"Noel, Nerlens",17.25,"$3,800",okc,@ lac,92-108,14:41,9pt 5rb 1st 4-5fg 1-2ft,dk,4652x,2018-10-19,Nerlens,Noel
+C,"Turner, Myles^",17,"$5,800",ind,@ mil,101-118,27:23,11pt 4rb 1bl 2to 5-12fg 1-1ft,dk,4781x,2018-10-19,Myles,Turner
+C,"Hernangomez, Guillermo",16.75,"$4,800",cha,@ orl,120-88,17:18,6pt 5rb 2as 1st 2to 1trey 2-5fg 1-2ft,dk,4949x,2018-10-19,Guillermo,Hernangomez
+C,"Len, Alex^",16.5,"$5,100",atl,@ mem,117-131,26:16,9pt 4rb 2as 2to 1trey 4-8fg,dk,4591x,2018-10-19,Alex,Len
+C,"Baynes, Aron",14,"$3,800",bos,@ tor,101-113,14:34,5pt 6rb 1bl 1to 2-8fg 1-2ft,dk,4556x,2018-10-19,Aron,Baynes
+C,"Zizic, Ante",13.25,"$3,500",cle,@ min,123-131,10:51,7pt 1rb 2as 1st 2-3fg 3-4ft,dk,5119x,2018-10-19,Ante,Zizic
+PF/C,"Favors, Derrick^",13.25,"$5,700",uta,v gsw,123-124,20:58,5pt 5rb 2st 4to 2-5fg 1-2ft,dk,4280x,2018-10-19,Derrick,Favors
+PF/C,"Vonleh, Noah",11.5,"$4,100",nyk,@ bkn,105-107,11:27,2pt 6rb 1bl 0-2fg 2-2ft,dk,4761x,2018-10-19,Noah,Vonleh
+PF/C,"Harrell, Montrezl",11.5,"$4,500",lac,v okc,108-92,13:04,3pt 4rb 1as 2bl 4to 0-1fg 3-4ft,dk,4857x,2018-10-19,Montrezl,Harrell
+PF/C,"Ilyasova, Ersan",10.75,"$4,400",mil,v ind,118-101,23:43,3pt 3rb 1st 1bl 1to 1trey 1-3fg,dk,3765x,2018-10-19,Ersan,Ilyasova
+C,"Bamba, Mohamed",10.75,"$4,700",orl,v cha,88-120,18:37,0pt 5rb 2as 1bl 1to 0-4fg,dk,5706x,2018-10-19,Mohamed,Bamba
+PF/C,"Martin, Jarell",10,"$3,100",orl,v cha,88-120,12:00,6pt 2rb 1as 3-4fg,dk,4850x,2018-10-19,Jarell,Martin
+PF/C,"Patterson, Patrick^",10,"$3,700",okc,@ lac,92-108,19:27,5pt 2rb 1bl 1trey 2-4fg,dk,4302x,2018-10-19,Patrick,Patterson
+PF/C,"Looney, Kevon",10,"$4,500",gsw,@ uta,124-123,18:36,4pt 2rb 1as 1st 2-3fg,dk,4820x,2018-10-19,Kevon,Looney
+C,"Valanciunas, Jonas",9.25,"$5,300",tor,v bos,113-101,14:28,4pt 5rb 2to 1-3fg 2-2ft,dk,4497x,2018-10-19,Jonas,Valanciunas
+C,"Okafor, Jahlil",8.75,"$3,000",nor,v sac,149-129,7:32,4pt 3rb 1as 1to 1-2fg 2-2ft,dk,4836x,2018-10-19,Jahlil,Okafor
+PF/C,"O'Quinn, Kyle",6.75,"$3,300",ind,@ mil,101-118,4:14,4pt 1rb 1as 1-2fg 2-2ft,dk,4529x,2018-10-19,Kyle,O'Quinn
+PF/C,"Labissiere, Skal",6.25,"$3,500",sac,@ nor,129-149,7:54,5pt 1rb 1to 1trey 2-4fg,dk,4979x,2018-10-19,Skal,Labissiere
+PF/C,"Kaminsky, Frank",5,"$3,500",cha,@ orl,120-88,7:57,2pt 2rb 1as 2to 1-2fg,dk,4778x,2018-10-19,Frank,Kaminsky
+C,"Udoh, Ekpe",2.75,"$3,100",uta,v gsw,123-124,3:07,0pt 1rb 1bl 1to,dk,4354x,2018-10-19,Ekpe,Udoh
+C,"Biyombo, Bismack",2,"$3,000",cha,@ orl,120-88,5:02,2pt 1-1fg,dk,4458x,2018-10-19,Bismack,Biyombo
+C,"Wood, Christian",1.75,"$3,000",mil,v ind,118-101,5:48,1pt 1rb 1to 0-1fg 1-2ft,dk,4834x,2018-10-19,Christian,Wood
+PG/SF,"Simmons, Ben^",54.75,"$9,500",phi,v chi,127-108,33:42,13pt 13rb 11as 1st 2bl 3to 5-8fg 3-3ft,dk,4925x,2018-10-18,Ben,Simmons
+PG,"Wall, John^",50.25,"$8,200",was,v mia,112-113,35:49,26pt 3rb 9as 1st 3bl 3to 1trey 9-16fg 7-10ft,dk,4321x,2018-10-18,John,Wall
+PG/SG,"LaVine, Zach^",45.25,"$6,400",chi,@ phi,108-127,32:42,30pt 5rb 3as 3bl 5to 2trey 11-19fg 6-7ft,dk,4706x,2018-10-18,Zach,LaVine
+PG,"Lillard, Damian^",45,"$8,600",por,v lal,128-119,35:24,28pt 6rb 4as 1st 1bl 3to 2trey 9-21fg 8-8ft,dk,4523x,2018-10-18,Damian,Lillard
+PG,"Rondo, Rajon^",37,"$5,800",lal,@ por,119-128,31:45,13pt 4rb 11as 1st 3to 1trey 6-13fg,dk,3872x,2018-10-18,Rajon,Rondo
+SG,"Hart, Josh",37,"$4,300",lal,@ por,119-128,27:28,20pt 4rb 1as 3st 2bl 2to 3trey 8-12fg 1-3ft,dk,5238x,2018-10-18,Josh,Hart
+PG,"Dragic, Goran^",30.5,"$6,000",mia,@ was,113-112,31:15,8pt 6rb 8as 1st 1bl 3to 1trey 3-18fg 1-1ft,dk,4092x,2018-10-18,Goran,Dragic
+PG/SF,"Ingram, Brandon^",30,"$6,500",lal,@ por,119-128,27:35,16pt 4rb 1as 2st 2bl 1to 7-15fg 2-4ft,dk,4965x,2018-10-18,Brandon,Ingram
+PG/SG,"McCollum, C.J.^",29.25,"$7,100",por,v lal,128-119,31:01,21pt 5rb 1as 2to 3trey 6-17fg 6-6ft,dk,4657x,2018-10-18,C.J.,McCollum
+PG/SG,"Fultz, Markelle^",28.5,"$4,500",phi,v chi,127-108,32:08,12pt 4rb 5as 2st 1to 1trey 5-15fg 1-2ft,dk,5131x,2018-10-18,Markelle,Fultz
+PG/SG,"Wade, Dwyane",27.5,"$4,800",mia,@ was,113-112,26:25,9pt 8rb 4as 2st 3to 4-11fg 1-2ft,dk,3571x,2018-10-18,Dwyane,Wade
+SG,"Beal, Bradley^",26.75,"$6,800",was,v mia,112-113,27:11,20pt 1rb 2as 1st 1to 2trey 7-16fg 4-6ft,dk,4494x,2018-10-18,Bradley,Beal
+PG,"Shamet, Landry",26.5,"$3,000",phi,v chi,127-108,29:11,12pt 4rb 1as 2st 1bl 4trey 4-7fg,dk,5704x,2018-10-18,Landry,Shamet
+PG,"Arcidiacono, Ryan",26,"$3,000",chi,@ phi,108-127,28:16,8pt 4rb 8as 2trey 3-4fg,dk,4962x,2018-10-18,Ryan,Arcidiacono
+PG,"Blakeney, Antonio",24.25,"$3,400",chi,@ phi,108-127,30:27,15pt 5rb 2as 1to 1trey 6-16fg 2-3ft,dk,5228x,2018-10-18,Antonio,Blakeney
+PG,"Ball, Lonzo",15.5,"$5,400",lal,@ por,119-128,19:28,7pt 4rb 1as 1st 1to 1trey 2-7fg 2-2ft,dk,5215x,2018-10-18,Lonzo,Ball
+PG/SG,"Rivers, Austin",14,"$4,400",was,v mia,112-113,25:00,9pt 2as 1bl 4-7fg 1-2ft,dk,4483x,2018-10-18,Austin,Rivers
+PG/SG,"Satoransky, Tomas",13.75,"$3,000",was,v mia,112-113,14:06,4pt 3rb 3as 1bl 1to 1-2fg 2-2ft,dk,4980x,2018-10-18,Tomas,Satoransky
+PG/SG,"Johnson, Tyler",13.75,"$4,100",mia,@ was,113-112,24:28,9pt 1rb 1as 1st 1to 1trey 3-9fg 2-2ft,dk,4756x,2018-10-18,Tyler,Johnson
+PG/SG,"Curry, Seth",11.25,"$3,800",por,v lal,128-119,15:34,5pt 5rb 1to 1trey 2-6fg,dk,4564x,2018-10-18,Seth,Curry
+PG/SG,"Payne, Cameron^",10.25,"$3,600",chi,@ phi,108-127,21:34,0pt 1rb 5as 1st 1to 0-4fg,dk,4882x,2018-10-18,Cameron,Payne
+PG/SG,"Stephenson, Lance",9,"$4,000",lal,@ por,119-128,16:19,4pt 2rb 2as 1to 2-6fg,dk,4316x,2018-10-18,Lance,Stephenson
+PG/SG,"McConnell, T.J.",8.5,"$3,300",phi,v chi,127-108,4:51,4pt 3as 1-1fg 2-2ft,dk,4831x,2018-10-18,T.J.,McConnell
+SG,"Korkmaz, Furkan",1.25,"$3,000",phi,v chi,127-108,7:45,0pt 1rb 0-1fg,dk,5157x,2018-10-18,Furkan,Korkmaz
+PG/SG,"McRae, Jordan",0,"$3,000",was,v mia,112-113,00:11,0pt,dk,4832x,2018-10-18,Jordan,McRae
+SG,"Hutchison, Chandler",0,"$3,400",chi,@ phi,108-127,2:49,0pt 0-1fg,dk,5686x,2018-10-18,Chandler,Hutchison
+PG,"Ulis, Tyler",0,"$3,000",chi,@ phi,108-127,00:49,0pt,dk,4950x,2018-10-18,Tyler,Ulis
+SF/PF,"James, LeBron^",50.5,"$10,800",lal,@ por,119-128,37:20,26pt 12rb 6as 1st 6to 9-16fg 8-9ft,dk,3541x,2018-10-18,LeBron,James
+SG/SF,"Richardson, Josh^",46,"$6,200",mia,@ was,113-112,38:25,28pt 4rb 5as 1st 1bl 2to 5trey 8-21fg 7-8ft,dk,4788x,2018-10-18,Josh,Richardson
+SG/SF,"McGruder, Rodney^",41.5,"$3,900",mia,@ was,113-112,34:08,20pt 8rb 6as 1bl 2to 3trey 7-12fg 3-3ft,dk,4650x,2018-10-18,Rodney,McGruder
+SF/PF,"Covington, Robert^",36.25,"$4,700",phi,v chi,127-108,29:08,20pt 5rb 2as 2st 1bl 2to 4trey 6-14fg 4-4ft,dk,4570x,2018-10-18,Robert,Covington
+SF/PF,"Porter, Otto^",34.75,"$5,600",was,v mia,112-113,33:37,9pt 11rb 3st 3bl 3-7fg 3-4ft,dk,4653x,2018-10-18,Otto,Porter
+SG/SF,"Stauskas, Nik",34,"$3,100",por,v lal,128-119,27:12,24pt 2rb 2as 1st 5trey 7-11fg 5-5ft,dk,4703x,2018-10-18,Nik,Stauskas
+SF/PF,"Saric, Dario^",33,"$5,500",phi,v chi,127-108,28:20,13pt 10rb 3as 1st 3to 2trey 4-12fg 3-3ft,dk,4904x,2018-10-18,Dario,Saric
+SF/PF,"Green, Jeff",29.5,"$3,700",was,v mia,112-113,32:30,17pt 4rb 1as 1st 2bl 2to 2trey 6-12fg 3-3ft,dk,3992x,2018-10-18,Jeff,Green
+SG/SF,"Turner, Evan",28.25,"$4,200",por,v lal,128-119,21:13,13pt 3rb 6as 2st 3to 5-8fg 3-4ft,dk,4318x,2018-10-18,Evan,Turner
+PF,"Collins, Zach",28,"$3,600",por,v lal,128-119,26:19,6pt 6rb 2as 6bl 1to 3-4fg,dk,5155x,2018-10-18,Zach,Collins
+SF,"Jones, Derrick^",25.75,"$3,400",mia,@ was,113-112,23:51,17pt 5rb 1st 1trey 5-10fg 6-9ft,dk,4941x,2018-10-18,Derrick,Jones
+SF/PF,"Parker, Jabari",24.25,"$5,200",chi,@ phi,108-127,25:12,15pt 5rb 1as 1st 2to 1trey 7-16fg,dk,4728x,2018-10-18,Jabari,Parker
+SF/PF,"Morris, Markieff^",23.75,"$5,000",was,v mia,112-113,24:50,11pt 5rb 2as 2bl 3to 2trey 3-8fg 3-4ft,dk,4453x,2018-10-18,Markieff,Morris
+SF/PF,"Harkless, Maurice",23.5,"$4,100",por,v lal,128-119,18:26,7pt 6rb 2as 3bl 1to 1trey 3-5fg,dk,4530x,2018-10-18,Maurice,Harkless
+SF/PF,"Kuzma, Kyle",23.25,"$5,500",lal,@ por,119-128,28:54,15pt 5rb 1st 1to 1trey 5-15fg 4-5ft,dk,5216x,2018-10-18,Kyle,Kuzma
+SG/SF,"Oubre, Kelly",18,"$4,200",was,v mia,112-113,20:14,9pt 6rb 1bl 1to 2-8fg 5-6ft,dk,4828x,2018-10-18,Kelly,Oubre
+SG/SF,"Holiday, Justin^",17.5,"$4,300",chi,@ phi,108-127,27:23,10pt 4rb 1as 2trey 4-12fg,dk,4558x,2018-10-18,Justin,Holiday
+SG/SF,"Redick, J.J.",17.25,"$5,100",phi,v chi,127-108,24:06,10pt 3rb 1as 1st 1to 1trey 4-11fg 1-1ft,dk,3861x,2018-10-18,J.J.,Redick
+SF/PF,"Aminu, Al-Farouq^",14,"$4,900",por,v lal,128-119,26:58,5pt 6rb 1st 1to 1-10fg 3-4ft,dk,4261x,2018-10-18,Al-Farouq,Aminu
+SG/SF,"Caldwell-Pope, Kentavious^",8,"$4,800",lal,@ por,119-128,27:18,5pt 2rb 1trey 1-3fg 2-2ft,dk,4616x,2018-10-18,Kentavious,Caldwell-Pope
+PF,"Layman, Jake^",7.5,"$3,700",por,v lal,128-119,12:40,3pt 2rb 1st 1to 1trey 1-4fg,dk,4997x,2018-10-18,Jake,Layman
+SF/PF,"Beasley, Michael",1.25,"$3,400",lal,@ por,119-128,2:18,0pt 1rb,dk,4071x,2018-10-18,Michael,Beasley
+PF,"Bolden, Jonah",0,"$3,000",phi,v chi,127-108,2:49,0pt 0-1fg,dk,5255x,2018-10-18,Jonah,Bolden
+C,"Embiid, Joel^",60,"$9,700",phi,v chi,127-108,32:51,30pt 12rb 3as 1st 4bl 2to 9-14fg 12-14ft,dk,4762x,2018-10-18,Joel,Embiid
+PF/C,"Portis, Bobby^",43.75,"$5,700",chi,@ phi,108-127,33:06,20pt 11rb 2as 1st 1bl 3trey 8-15fg 1-2ft,dk,4841x,2018-10-18,Bobby,Portis
+C,"McGee, JaVale^",32.5,"$4,500",lal,@ por,119-128,21:35,13pt 8rb 1as 1st 3bl 5-6fg 3-4ft,dk,4114x,2018-10-18,JaVale,McGee
+C,"Nurkic, Jusuf^",30.25,"$6,300",por,v lal,128-119,17:11,16pt 9rb 2st 2to 7-14fg 2-2ft,dk,4681x,2018-10-18,Jusuf,Nurkic
+C,"Whiteside, Hassan^",22.5,"$7,000",mia,@ was,113-112,28:59,9pt 10rb 1bl 2to 3-6fg 3-5ft,dk,4324x,2018-10-18,Hassan,Whiteside
+PF/C,"Olynyk, Kelly",18,"$6,100",mia,@ was,113-112,15:22,9pt 4rb 1as 1bl 1trey 4-6fg,dk,4583x,2018-10-18,Kelly,Olynyk
+PF/C,"Johnson, Amir",17.75,"$3,400",phi,v chi,127-108,15:09,13pt 3rb 1as 1to 6-9fg 1-1ft,dk,3768x,2018-10-18,Amir,Johnson
+C,"Carter Jr., Wendell^",17.75,"$4,200",chi,@ phi,108-127,19:59,8pt 3rb 3as 1bl 1to 4-10fg,dk,5685x,2018-10-18,Wendell,Carter Jr.
+C,"Adebayo, Bam",13.75,"$4,900",mia,@ was,113-112,17:07,4pt 9rb 3to 1-4fg 2-4ft,dk,5159x,2018-10-18,Bam,Adebayo
+C,"Leonard, Meyers",12.5,"$3,500",por,v lal,128-119,8:02,0pt 4rb 4as 1st 1to,dk,4521x,2018-10-18,Meyers,Leonard
+C,"Lopez, Robin",10.75,"$3,600",chi,@ phi,108-127,17:43,2pt 1rb 3as 1st 1bl 2to 1-4fg,dk,4112x,2018-10-18,Robin,Lopez
+PF/C,"Smith, Jason",10.5,"$3,100",was,v mia,112-113,14:54,4pt 6rb 2to 2-3fg,dk,4023x,2018-10-18,Jason,Smith
+C,"Mahinmi, Ian^",9.75,"$4,600",was,v mia,112-113,11:38,3pt 1rb 1st 2bl 1to 1-2fg 1-2ft,dk,3777x,2018-10-18,Ian,Mahinmi
+PG,"Walker, Kemba^",55.5,"$7,600",cha,v mil,112-113,38:39,41pt 2rb 4as 2st 3to 7trey 15-29fg 4-5ft,dk,4440x,2018-10-17,Kemba,Walker
+PG/SG,"Harden, James^",53.25,"$11,500",hou,v nor,112-131,34:43,18pt 9rb 10as 3st 1bl 4to 3trey 6-15fg 3-4ft,dk,4224x,2018-10-17,James,Harden
+PG/SG,"Booker, Devin^",52,"$7,400",pho,v dal,121-100,33:27,35pt 4rb 7as 3to 6trey 12-19fg 5-6ft,dk,4885x,2018-10-17,Devin,Booker
+PG,"Lowry, Kyle^",45.25,"$7,200",tor,v cle,116-104,35:35,27pt 1rb 8as 1st 1bl 3to 5trey 10-12fg 2-3ft,dk,3891x,2018-10-17,Kyle,Lowry
+PG,"Payton, Elfrid^",43.5,"$5,300",nor,@ hou,131-112,36:52,10pt 10rb 10as 1st 1to 5-13fg 0-2ft,dk,4699x,2018-10-17,Elfrid,Payton
+PG,"Fox, De'Aaron^",41,"$5,700",sac,v uta,117-123,37:30,21pt 4rb 7as 3st 3to 8-16fg 5-7ft,dk,5132x,2018-10-17,De'Aaron,Fox
+PG,"Paul, Chris^",39.25,"$8,900",hou,v nor,112-131,32:21,19pt 5rb 6as 2st 1to 3trey 6-12fg 4-5ft,dk,3786x,2018-10-17,Chris,Paul
+PG,"Dragic, Goran^",39,"$6,600",mia,@ orl,101-104,32:54,26pt 4rb 4as 1bl 3to 3trey 9-14fg 5-7ft,dk,4092x,2018-10-17,Goran,Dragic
+PG,"Teague, Jeff^",38.25,"$6,200",min,@ sas,108-112,31:32,27pt 1rb 4as 2st 2to 2trey 8-12fg 9-9ft,dk,4221x,2018-10-17,Jeff,Teague
+PG/SG,"Dinwiddie, Spencer",37,"$5,600",bkn,@ det,100-103,32:17,23pt 4rb 6as 1st 4to 10-18fg 3-5ft,dk,4760x,2018-10-17,Spencer,Dinwiddie
+PG/SG,"Mitchell, Donovan^",34.25,"$7,900",uta,@ sac,123-117,36:12,24pt 3rb 2as 2st 4to 3trey 8-21fg 5-6ft,dk,5136x,2018-10-17,Donovan,Mitchell
+PG/SG,"Monk, Malik",34,"$4,200",cha,v mil,112-113,33:35,18pt 4rb 2as 1st 2bl 4trey 7-16fg,dk,5133x,2018-10-17,Malik,Monk
+PG/SG,"Oladipo, Victor^",29.75,"$8,000",ind,v mem,111-83,25:47,16pt 5rb 5as 3to 3trey 6-11fg 1-2ft,dk,4627x,2018-10-17,Victor,Oladipo
+PG/SG,"Barea, Jose",29.75,"$4,400",dal,@ pho,100-121,20:39,9pt 3rb 10as 1st 1to 1trey 3-8fg 2-3ft,dk,3882x,2018-10-17,Jose,Barea
+PG,"Jackson, Reggie^",29.5,"$5,800",det,v bkn,103-100,35:01,19pt 2rb 4as 1st 2to 2trey 7-20fg 3-3ft,dk,4369x,2018-10-17,Reggie,Jackson
+PG/SG,"Bledsoe, Eric^",29,"$7,100",mil,@ cha,113-112,33:32,17pt 4rb 3as 1bl 2to 3trey 7-13fg,dk,4266x,2018-10-17,Eric,Bledsoe
+PG,"Smith Jr., Dennis^",29,"$7,000",dal,@ pho,100-121,27:55,13pt 2rb 5as 3st 1to 1trey 6-19fg,dk,5212x,2018-10-17,Dennis,Smith Jr.
+PG/SG,"Hill, George^",28.5,"$4,500",cle,@ tor,104-116,31:27,15pt 2rb 7as 1to 2trey 5-11fg 3-4ft,dk,4102x,2018-10-17,George,Hill
+PG,"Joseph, Cory",28.5,"$3,700",ind,v mem,111-83,28:17,11pt 6rb 3as 1st 2bl 2to 1trey 5-7fg,dk,4405x,2018-10-17,Cory,Joseph
+PG/SG,"Holiday, Jrue^",28.25,"$7,500",nor,@ hou,131-112,38:16,10pt 3rb 8as 2st 3to 5-12fg,dk,4212x,2018-10-17,Jrue,Holiday
+PG,"Young, Trae^",27.5,"$6,500",atl,@ nyk,107-126,33:08,14pt 6rb 5as 4to 1trey 5-14fg 3-4ft,dk,5708x,2018-10-17,Trae,Young
+SG,"Harris, Gary^",26.75,"$6,400",den,@ lac,107-98,34:25,20pt 3rb 2as 6-16fg 8-8ft,dk,4678x,2018-10-17,Gary,Harris
+PG,"Canaan, Isaiah^",26.5,"$4,200",pho,v dal,121-100,33:34,8pt 6rb 7as 1to 2trey 3-10fg,dk,4569x,2018-10-17,Isaiah,Canaan
+SG,"Burks, Alec",25.75,"$4,000",uta,@ sac,123-117,17:59,13pt 3rb 4as 1st 1to 3trey 4-7fg 2-2ft,dk,4441x,2018-10-17,Alec,Burks
+PG/SG,"Burke, Trey^",24.75,"$5,600",nyk,v atl,126-107,20:34,15pt 3rb 4as 2to 2trey 6-11fg 1-2ft,dk,4615x,2018-10-17,Trey,Burke
+PG/SG,"VanVleet, Fred",24,"$5,000",tor,v cle,116-104,25:24,14pt 2rb 5as 1to 1trey 6-14fg 1-3ft,dk,4934x,2018-10-17,Fred,VanVleet
+PG/SG,"Exum, Dante",24,"$4,100",uta,@ sac,123-117,26:07,13pt 4rb 4as 1to 1trey 4-9fg 4-7ft,dk,4707x,2018-10-17,Dante,Exum
+PG,"Doncic, Luka^",24,"$6,700",dal,@ pho,100-121,31:47,10pt 8rb 4as 4to 5-16fg 0-2ft,dk,5670x,2018-10-17,Luka,Doncic
+PG/SG,"Wade, Dwyane",23.75,"$5,100",mia,@ orl,101-104,26:02,9pt 11rb 2as 4to 3-13fg 3-4ft,dk,3571x,2018-10-17,Dwyane,Wade
+PG/SG,"Brogdon, Malcolm^",23.75,"$5,300",mil,@ cha,113-112,38:01,10pt 3rb 6as 1st 4to 2trey 4-9fg,dk,5013x,2018-10-17,Malcolm,Brogdon
+PG/SG,"Williams, Louis",23.25,"$6,400",lac,v den,98-107,24:25,14pt 1rb 5as 1to 2trey 4-10fg 4-5ft,dk,3816x,2018-10-17,Louis,Williams
+PG,"Gilgeous-Alexander, Shai",22,"$3,800",lac,v den,98-107,28:12,11pt 2rb 4as 1st 1bl 3to 5-6fg 1-1ft,dk,5690x,2018-10-17,Shai,Gilgeous-Alexander
+PG/SG,"Forbes, Bryn^",21.25,"$4,600",sas,v min,112-108,30:02,11pt 3rb 2as 2st 2to 1trey 4-10fg 2-2ft,dk,4995x,2018-10-17,Bryn,Forbes
+PG,"Parker, Tony",21.25,"$3,500",cha,v mil,112-113,19:48,8pt 3rb 7as 2to 4-8fg,dk,3313x,2018-10-17,Tony,Parker
+PG,"Carter-Williams, Michael",21,"$3,500",hou,v nor,112-131,17:44,10pt 4rb 2as 2bl 3to 1trey 4-10fg 1-2ft,dk,4575x,2018-10-17,Michael,Carter-Williams
+PG,"Ntilikina, Frank^",20.75,"$4,800",nyk,v atl,126-107,33:38,5pt 5rb 1as 3st 1bl 1to 1trey 2-7fg,dk,5219x,2018-10-17,Frank,Ntilikina
+PG,"Conley, Mike^",20.5,"$6,500",mem,@ ind,83-111,28:58,11pt 2rb 3as 1st 1to 2trey 3-11fg 3-3ft,dk,3979x,2018-10-17,Mike,Conley
+PG/SG,"Murray, Jamal^",19.75,"$6,900",den,@ lac,107-98,31:38,7pt 5rb 3as 1st 1to 1trey 3-12fg,dk,4954x,2018-10-17,Jamal,Murray
+PG/SG,"Russell, D'Angelo^",19.5,"$6,600",bkn,@ det,100-103,24:58,8pt 2rb 5as 1st 2to 1trey 3-9fg 1-2ft,dk,4799x,2018-10-17,D'Angelo,Russell
+PG/SG,"Clarkson, Jordan",19.25,"$5,100",cle,@ tor,104-116,23:09,15pt 3rb 1trey 7-15fg,dk,4668x,2018-10-17,Jordan,Clarkson
+PG,"Morris, Monte",18,"$4,000",den,@ lac,107-98,16:23,7pt 2rb 4as 1st 1trey 3-9fg,dk,5191x,2018-10-17,Monte,Morris
+PG,"Augustin, D.J.^",17.75,"$4,400",orl,v mia,104-101,22:17,11pt 1rb 2as 1st 1trey 4-10fg 2-2ft,dk,4078x,2018-10-17,D.J.,Augustin
+PG/SG,"Lin, Jeremy",16.75,"$4,000",atl,@ nyk,107-126,13:42,8pt 5rb 1as 1st 2to 3-6fg 2-2ft,dk,4297x,2018-10-17,Jeremy,Lin
+SG,"Bradley, Avery^",15.5,"$4,400",lac,v den,98-107,27:56,8pt 2rb 1st 2bl 2to 4-10fg,dk,4269x,2018-10-17,Avery,Bradley
+PG/SG,"Beverley, Patrick^",15.5,"$5,100",lac,v den,98-107,19:31,0pt 4rb 6as 1bl 1to 0-8fg,dk,4234x,2018-10-17,Patrick,Beverley
+PG,"Rose, Derrick",15.5,"$3,900",min,@ sas,108-112,30:31,8pt 4rb 2as 1to 3-12fg 2-2ft,dk,4073x,2018-10-17,Derrick,Rose
+PG,"Smith, Ishmael",15.5,"$4,100",det,v bkn,103-100,28:45,11pt 3as 1to 1trey 5-11fg,dk,4315x,2018-10-17,Ishmael,Smith
+PG/SG,"Ferrell, Yogi^",15.25,"$4,400",sac,v uta,117-123,30:18,12pt 1rb 1as 1to 2trey 3-7fg 4-4ft,dk,4970x,2018-10-17,Yogi,Ferrell
+PG,"Grant, Jerian",14.5,"$3,900",orl,v mia,104-101,25:42,7pt 2rb 1as 2st 1to 3-7fg 1-2ft,dk,4873x,2018-10-17,Jerian,Grant
+PG/SF,"DiVincenzo, Donte",14.5,"$3,700",mil,@ cha,113-112,22:04,8pt 2rb 1as 1st 1to 2trey 3-6fg,dk,5740x,2018-10-17,Donte,DiVincenzo
+PG/SG,"Baker, Ron",14,"$3,200",nyk,v atl,126-107,27:26,2pt 4rb 4as 1st 2to 0-3fg 2-2ft,dk,5006x,2018-10-17,Ron,Baker
+SG,"Brooks, MarShon",13,"$4,500",mem,@ ind,83-111,22:04,9pt 2rb 1as 2-9fg 5-7ft,dk,4400x,2018-10-17,MarShon,Brooks
+PG,"Mack, Shelvin",12.75,"$3,600",mem,@ ind,83-111,29:55,3pt 3rb 3as 1st 1to 1-8fg 1-2ft,dk,4377x,2018-10-17,Shelvin,Mack
+PG/SG,"Galloway, Langston",11.25,"$3,600",det,v bkn,103-100,33:00,6pt 3rb 1as 2-5fg 2-2ft,dk,4735x,2018-10-17,Langston,Galloway
+PG,"Sexton, Collin",10.75,"$5,600",cle,@ tor,104-116,17:43,9pt 3rb 4to 2-7fg 5-5ft,dk,5721x,2018-10-17,Collin,Sexton
+PG,"Rubio, Ricky^",10.5,"$6,900",uta,@ sac,123-117,21:52,1pt 2rb 4as 1st 2to 0-4fg 1-1ft,dk,4414x,2018-10-17,Ricky,Rubio
+PG/SG,"Mills, Patty",10.5,"$4,600",sas,v min,112-108,29:53,6pt 2rb 1as 1to 2trey 2-7fg,dk,4245x,2018-10-17,Patty,Mills
+PG/SG,"Dorsey, Tyler",9.75,"$3,700",atl,@ nyk,107-126,14:36,6pt 3rb 3-8fg,dk,5158x,2018-10-17,Tyler,Dorsey
+PG/SG,"Johnson, Tyler",9.5,"$4,200",mia,@ orl,101-104,23:46,7pt 1st 1trey 3-7fg,dk,4756x,2018-10-17,Tyler,Johnson
+PG/SG,"Beasley, Malik",7.75,"$3,600",den,@ lac,107-98,11:45,5pt 1rb 1as 1to 1trey 2-6fg,dk,4999x,2018-10-17,Malik,Beasley
+PG,"Collison, Darren^",7.25,"$5,400",ind,v mem,111-83,21:29,0pt 1rb 5as 3to 0-5fg,dk,4228x,2018-10-17,Darren,Collison
+PG/SG,"Jones, Tyus",6.25,"$3,500",min,@ sas,108-112,16:28,4pt 1rb 1as 1to 2-7fg,dk,4876x,2018-10-17,Tyus,Jones
+PG,"Brunson, Jalen",6.25,"$3,500",dal,@ pho,100-121,19:07,3pt 1rb 1as 1trey 1-3fg,dk,5664x,2018-10-17,Jalen,Brunson
+SG,"Brown, Bruce^",5.5,"$3,100",det,v bkn,103-100,18:52,0pt 2rb 1as 1bl 1to 0-3fg,dk,5738x,2018-10-17,Bruce,Brown
+SG,"Selden, Wayne",5.5,"$4,300",mem,@ ind,83-111,6:00,5pt 1trey 2-3fg,dk,4986x,2018-10-17,Wayne,Selden
+PG/SG,"Mason III, Frank",3.5,"$3,700",sac,v uta,117-123,4:59,3pt 1trey 1-2fg,dk,5153x,2018-10-17,Frank,Mason III
+PG,"Okobo, Elie",3.5,"$3,700",pho,v dal,121-100,7:30,2pt 1as 1-2fg,dk,5711x,2018-10-17,Elie,Okobo
+PG/SG,"Holiday, Aaron",3,"$3,700",ind,v mem,111-83,3:58,3pt 1to 1trey 1-2fg,dk,5747x,2018-10-17,Aaron,Holiday
+PG,"Adams, Jaylen",2.75,"$3,000",atl,@ nyk,107-126,4:17,0pt 1rb 1as 0-1fg,dk,5709x,2018-10-17,Jaylen,Adams
+PG/SG,"Sumner, Edmond",2,"$3,000",ind,v mem,111-83,3:51,2pt 1-2fg,dk,5144x,2018-10-17,Edmond,Sumner
+PG/SG,"Harris, Devin",1.5,"$3,700",dal,@ pho,100-121,6:12,0pt 1as 0-2fg,dk,3637x,2018-10-17,Devin,Harris
+SG,"Lofton, Zach",1.5,"$3,000",det,v bkn,103-100,3:45,0pt 1st 1to 0-1fg,dk,5739x,2018-10-17,Zach,Lofton
+PG,"Brown, Lorenzo",1.25,"$3,000",tor,v cle,116-104,00:44,0pt 1rb,dk,4629x,2018-10-17,Lorenzo,Brown
+SG,"Daniels, Troy",1.25,"$3,300",pho,v dal,121-100,4:08,0pt 1rb,dk,4658x,2018-10-17,Troy,Daniels
+SG,"Richardson, Malachi",0,"$3,000",tor,v cle,116-104,00:25,0pt,dk,4969x,2018-10-17,Malachi,Richardson
+PG/SG,"Jackson, Frank",0,"$3,600",nor,@ hou,131-112,1:35,0pt,dk,5168x,2018-10-17,Frank,Jackson
+SF/PF,"Antetokounmpo, Giannis^",59,"$10,900",mil,@ cha,113-112,34:46,25pt 18rb 8as 1bl 8to 9-21fg 7-12ft,dk,4621x,2018-10-17,Giannis,Antetokounmpo
+SG/SF,"Hardaway Jr., Tim^",51.5,"$6,600",nyk,v atl,126-107,28:51,31pt 6rb 5as 2st 3trey 10-22fg 8-8ft,dk,4628x,2018-10-17,Tim,Hardaway Jr.
+SF/PF,"Mirotic, Nikola^",51,"$6,300",nor,@ hou,131-112,29:54,30pt 10rb 3as 1to 6trey 11-20fg 2-3ft,dk,4682x,2018-10-17,Nikola,Mirotic
+SF/PF,"Gordon, Aaron^",50.5,"$7,400",orl,v mia,104-101,38:18,26pt 16rb 2as 4to 4trey 9-18fg 4-6ft,dk,4705x,2018-10-17,Aaron,Gordon
+SG/SF,"Butler, Jimmy^",46.25,"$6,700",min,@ sas,108-112,31:36,23pt 7rb 3as 4st 1bl 1to 1trey 9-23fg 4-5ft,dk,4363x,2018-10-17,Jimmy,Butler
+SF/PF,"Ariza, Trevor^",46,"$4,600",pho,v dal,121-100,37:01,21pt 8rb 7as 1st 5trey 7-12fg 2-2ft,dk,3621x,2018-10-17,Trevor,Ariza
+SG/SF,"Leonard, Kawhi^",43.75,"$8,100",tor,v cle,116-104,37:15,24pt 13rb 2as 3to 1trey 9-22fg 5-6ft,dk,4404x,2018-10-17,Kawhi,Leonard
+SG/SF,"Middleton, Khris^",42.75,"$7,200",mil,@ cha,113-112,32:46,19pt 9rb 4as 2st 1bl 2to 3trey 7-14fg 2-2ft,dk,4490x,2018-10-17,Khris,Middleton
+SF/PF,"Harris, Tobias^",40.5,"$7,000",lac,v den,98-107,40:31,19pt 10rb 1as 3bl 2to 2trey 6-13fg 5-6ft,dk,4412x,2018-10-17,Tobias,Harris
+SG/SF,"LeVert, Caris^",40.5,"$5,800",bkn,@ det,100-103,33:59,27pt 4rb 4as 1st 1bl 3to 10-18fg 7-8ft,dk,4992x,2018-10-17,Caris,LeVert
+SF,"Osman, Cedi^",40.5,"$4,200",cle,@ tor,104-116,33:05,17pt 10rb 4as 2st 3to 2trey 5-10fg 5-6ft,dk,5116x,2018-10-17,Cedi,Osman
+SG/SF,"Ingles, Joe^",39.75,"$5,800",uta,@ sac,123-117,35:13,22pt 1rb 6as 4st 5to 4trey 9-12fg,dk,4701x,2018-10-17,Joe,Ingles
+SG/SF,"DeRozan, DeMar^",38,"$7,400",sas,v min,112-108,38:11,28pt 4rb 4as 3to 1trey 10-21fg 7-11ft,dk,4211x,2018-10-17,DeMar,DeRozan
+SF,"Prince, Taurean^",36,"$6,100",atl,@ nyk,107-126,32:19,21pt 6rb 6as 6to 3trey 7-15fg 4-4ft,dk,4938x,2018-10-17,Taurean,Prince
+SG/SF,"Richardson, Josh^",35.25,"$6,300",mia,@ orl,101-104,37:35,21pt 5rb 3as 1st 1bl 3to 2trey 8-21fg 3-3ft,dk,4788x,2018-10-17,Josh,Richardson
+SF/PF,"Bjelica, Nemanja^",34,"$4,200",sac,v uta,117-123,27:09,18pt 8rb 2as 1st 2trey 8-12fg,dk,4875x,2018-10-17,Nemanja,Bjelica
+SG/SF,"Wiggins, Andrew^",34,"$6,100",min,@ sas,108-112,37:27,20pt 6rb 3as 1st 2to 2trey 8-18fg 2-2ft,dk,4704x,2018-10-17,Andrew,Wiggins
+SG/SF,"Barton, Will^",32.75,"$6,700",den,@ lac,107-98,34:46,19pt 5rb 2as 2bl 2to 3trey 6-12fg 4-4ft,dk,4522x,2018-10-17,Will,Barton
+SG/SF,"Hield, Buddy^",30.5,"$5,300",sac,v uta,117-123,31:50,19pt 6rb 1as 1st 1bl 4to 1trey 9-18fg 0-1ft,dk,4961x,2018-10-17,Buddy,Hield
+SG/SF,"Harris, Joe^",29.5,"$4,600",bkn,@ det,100-103,37:08,13pt 6rb 5as 1st 2to 1trey 6-14fg,dk,4733x,2018-10-17,Joe,Harris
+SG/SF,"Moore, E'Twaun^",29.25,"$4,100",nor,@ hou,131-112,33:44,21pt 3rb 2as 1st 2to 1trey 8-12fg 4-4ft,dk,4364x,2018-10-17,E'Twaun,Moore
+SF/PF,"Gallinari, Danilo^",29,"$6,000",lac,v den,98-107,33:53,16pt 8rb 1as 1to 4trey 5-13fg 2-2ft,dk,4082x,2018-10-17,Danilo,Gallinari
+SF/PF,"Tucker, P.J.^",29,"$3,900",hou,v nor,112-131,34:19,19pt 2rb 1as 1st 1bl 4trey 6-11fg 3-4ft,dk,3871x,2018-10-17,P.J.,Tucker
+SF/PF,"Gay, Rudy^",28.75,"$5,900",sas,v min,112-108,23:29,18pt 7rb 1bl 1to 1trey 8-12fg 1-2ft,dk,3857x,2018-10-17,Rudy,Gay
+SG/SF,"Evans, Tyreke",28,"$6,200",ind,v mem,111-83,23:34,14pt 4rb 6as 1to 1trey 6-12fg 1-2ft,dk,4207x,2018-10-17,Tyreke,Evans
+SG/SF,"Bazemore, Kent^",27.5,"$5,700",atl,@ nyk,107-126,30:16,14pt 6rb 2st 1bl 2to 2trey 6-12fg,dk,4507x,2018-10-17,Kent,Bazemore
+SG/SF,"Gordon, Eric",27.25,"$5,100",hou,v nor,112-131,29:21,21pt 3rb 1as 2trey 7-14fg 5-5ft,dk,4077x,2018-10-17,Eric,Gordon
+SG/SF,"Matthews, Wes^",27,"$4,600",dal,@ pho,100-121,34:21,15pt 2rb 5as 1st 2to 2trey 4-10fg 5-6ft,dk,4164x,2018-10-17,Wes,Matthews
+SG/SF,"Jackson, Josh",27,"$5,300",pho,v dal,121-100,28:23,18pt 2rb 3as 1bl 3to 3trey 7-11fg 1-2ft,dk,5130x,2018-10-17,Josh,Jackson
+SG/SF,"Green, Danny^",26.75,"$4,400",tor,v cle,116-104,32:45,11pt 5rb 2st 2bl 3trey 4-9fg,dk,4193x,2018-10-17,Danny,Green
+SG/SF,"Ross, Terrence",26.5,"$3,500",orl,v mia,104-101,25:32,4pt 4rb 4as 2st 4bl 1to 2-9fg,dk,4549x,2018-10-17,Terrence,Ross
+SG/SF,"Bogdanovic, Bojan^",26.5,"$4,500",ind,v mem,111-83,27:06,19pt 6rb 3to 3trey 7-9fg 2-2ft,dk,4709x,2018-10-17,Bojan,Bogdanovic
+SF/PF,"Hezonja, Mario",26.25,"$4,400",nyk,v atl,126-107,19:14,15pt 3rb 1as 3st 3to 3trey 6-14fg 0-1ft,dk,4776x,2018-10-17,Mario,Hezonja
+SG/SF,"Batum, Nicolas^",25.75,"$6,100",cha,v mil,112-113,31:49,5pt 7rb 3as 2st 2bl 2to 1trey 2-8fg,dk,4086x,2018-10-17,Nicolas,Batum
+PF,"Jackson, Jaren",25.75,"$4,500",mem,@ ind,83-111,25:18,10pt 5rb 1as 3st 1bl 2-6fg 6-6ft,dk,5731x,2018-10-17,Jaren,Jackson
+SF/PF,"Williams, Marvin^",25.75,"$4,300",cha,v mil,112-113,25:51,5pt 9rb 1as 4bl 1to 1trey 2-7fg 0-2ft,dk,3817x,2018-10-17,Marvin,Williams
+SF/PF,"Young, Thaddeus^",25,"$5,000",ind,v mem,111-83,27:43,10pt 8rb 3as 1bl 3to 5-7fg 0-1ft,dk,4037x,2018-10-17,Thaddeus,Young
+SF/PF,"Green, JaMychal^",24.75,"$4,600",mem,@ ind,83-111,24:59,9pt 7rb 2as 2st 1to 1trey 4-7fg,dk,4581x,2018-10-17,JaMychal,Green
+SG/SF,"Fournier, Evan^",24.5,"$5,400",orl,v mia,104-101,23:32,13pt 2rb 5as 1st 1to 5-15fg 3-6ft,dk,4468x,2018-10-17,Evan,Fournier
+SF/PF,"Finney-Smith, Dorian^",24.25,"$3,900",dal,@ pho,100-121,30:21,12pt 3rb 1as 3bl 2trey 4-7fg 2-2ft,dk,4932x,2018-10-17,Dorian,Finney-Smith
+SG/SF,"Warren, T.J.",23.75,"$4,300",pho,v dal,121-100,23:45,17pt 1rb 1as 2st 3to 3trey 5-12fg 4-4ft,dk,4724x,2018-10-17,T.J.,Warren
+SG/SF,"Trier, Allonzo",23,"$3,200",nyk,v atl,126-107,26:17,15pt 4rb 2bl 3to 1trey 5-9fg 4-4ft,dk,5701x,2018-10-17,Allonzo,Trier
+SG/SF,"Simmons, Jonathon",21.75,"$4,600",orl,v mia,104-101,33:26,12pt 5rb 1as 1bl 4-11fg 4-6ft,dk,4890x,2018-10-17,Jonathon,Simmons
+PF,"Siakam, Pascal^",21,"$4,600",tor,v cle,116-104,19:57,13pt 2rb 2as 1bl 1trey 6-8fg,dk,4929x,2018-10-17,Pascal,Siakam
+SF/PF,"Kidd-Gilchrist, Michael",20.5,"$3,700",cha,v mil,112-113,21:38,10pt 6rb 1as 1bl 1to 3-6fg 4-6ft,dk,4532x,2018-10-17,Michael,Kidd-Gilchrist
+SF/PF,"Lyles, Trey",20.25,"$5,200",den,@ lac,107-98,18:47,10pt 7rb 1st 1to 3-6fg 4-6ft,dk,4806x,2018-10-17,Trey,Lyles
+SF/PF,"Crowder, Jae",20.25,"$4,700",uta,@ sac,123-117,33:13,13pt 5rb 2trey 2-5fg 7-9ft,dk,4472x,2018-10-17,Jae,Crowder
+PF,"Gibson, Taj^",19.25,"$4,700",min,@ sas,108-112,26:57,6pt 11rb 1to 3-4fg,dk,4167x,2018-10-17,Taj,Gibson
+SG/SF,"McGruder, Rodney^",18.75,"$3,800",mia,@ orl,101-104,31:30,8pt 3rb 3as 1bl 1to 2trey 2-9fg 2-3ft,dk,4650x,2018-10-17,Rodney,McGruder
+SF/PF,"Hernangomez, Juan",18.5,"$3,800",den,@ lac,107-98,15:03,5pt 6rb 1as 1st 1bl 1trey 2-3fg,dk,4990x,2018-10-17,Juan,Hernangomez
+SG/SF,"Temple, Garrett^",18.5,"$3,500",mem,@ ind,83-111,24:30,12pt 2as 1bl 1to 4trey 4-13fg,dk,4199x,2018-10-17,Garrett,Temple
+SG/SF,"Belinelli, Marco",18.5,"$4,600",sas,v min,112-108,21:47,10pt 4rb 2as 1to 2trey 3-6fg 2-2ft,dk,3974x,2018-10-17,Marco,Belinelli
+SG/SF,"Hood, Rodney^",18,"$4,900",cle,@ tor,104-116,26:19,12pt 2rb 1as 1st 5-13fg 2-2ft,dk,4744x,2018-10-17,Rodney,Hood
+SF/PF,"McDermott, Doug",17.25,"$3,500",ind,v mem,111-83,24:24,12pt 1rb 1as 1st 1trey 5-9fg 1-2ft,dk,4669x,2018-10-17,Doug,McDermott
+SG/SF,"Lamb, Jeremy^",17,"$5,700",cha,v mil,112-113,20:48,10pt 2rb 1as 1st 2trey 4-11fg,dk,4514x,2018-10-17,Jeremy,Lamb
+SG/SF,"Jackson, Justin",16,"$3,700",sac,v uta,117-123,30:30,8pt 2rb 1as 2st 4-10fg,dk,5135x,2018-10-17,Justin,Jackson
+SG/SF,"Bembry, DeAndre",16,"$4,100",atl,@ nyk,107-126,23:19,2pt 4rb 4as 2st 2to 1-4fg,dk,5001x,2018-10-17,DeAndre,Bembry
+SF/PF,"Anthony, Carmelo",15.5,"$5,200",hou,v nor,112-131,27:00,9pt 4rb 1bl 2to 1trey 3-10fg 2-4ft,dk,3510x,2018-10-17,Carmelo,Anthony
+SF/PF,"Knox, Kevin",15.5,"$4,700",nyk,v atl,126-107,23:38,10pt 2st 1bl 2to 1trey 4-16fg 1-3ft,dk,5705x,2018-10-17,Kevin,Knox
+SF/PF,"Dudley, Jared^",15.25,"$3,200",bkn,@ det,100-103,35:51,1pt 3rb 3as 3st 0-5fg 1-2ft,dk,3985x,2018-10-17,Jared,Dudley
+SF/PF,"Isaac, Jonathan^",15,"$5,000",orl,v mia,104-101,18:08,6pt 6rb 1as 1to 1trey 2-4fg 1-2ft,dk,5137x,2018-10-17,Jonathan,Isaac
+SG/SF,"Carter, Vince^",14.5,"$4,000",atl,@ nyk,107-126,23:58,12pt 2rb 2to 2trey 4-9fg 2-2ft,dk,2448x,2018-10-17,Vince,Carter
+SG/SF,"Kennard, Luke^",14,"$4,200",det,v bkn,103-100,19:21,7pt 4rb 1bl 1to 1trey 3-5fg,dk,5180x,2018-10-17,Luke,Kennard
+SF/PF,"Dekker, Sam",13,"$3,200",cle,@ tor,104-116,16:16,4pt 6rb 1st 1to 1-2fg 2-4ft,dk,4856x,2018-10-17,Sam,Dekker
+SF/PF,"Poythress, Alex",12.5,"$3,900",atl,@ nyk,107-126,20:43,9pt 2rb 1st 3to 1trey 4-8fg 0-1ft,dk,4985x,2018-10-17,Alex,Poythress
+SG/SF,"Ennis, James^",12.25,"$4,400",hou,v nor,112-131,24:43,8pt 1rb 1st 2trey 3-7fg,dk,4697x,2018-10-17,James,Ennis
+SF/PF,"Parsons, Chandler^",11.25,"$3,800",mem,@ ind,83-111,22:33,6pt 1rb 1st 1bl 3-9fg,dk,4461x,2018-10-17,Chandler,Parsons
+PF,"Kleber, Maxi",11,"$3,700",dal,@ pho,100-121,16:45,8pt 2rb 1to 2trey 3-3fg,dk,5162x,2018-10-17,Maxi,Kleber
+SG/SF,"Jones, Derrick^",10,"$3,700",mia,@ orl,101-104,17:13,5pt 2rb 2as 2to 1trey 2-5fg,dk,4941x,2018-10-17,Derrick,Jones
+SG/SF,"Shumpert, Iman",9.25,"$3,000",sac,v uta,117-123,17:34,5pt 3rb 1trey 2-7fg,dk,4397x,2018-10-17,Iman,Shumpert
+SF/PF,"Anderson, Kyle",8,"$4,400",mem,@ ind,83-111,19:15,5pt 2rb 1as 2to 2-6fg 1-2ft,dk,4736x,2018-10-17,Kyle,Anderson
+SF/PF,"Robinson III, Glenn",7.5,"$3,800",det,v bkn,103-100,20:04,4pt 1st 1bl 1to 2-3fg,dk,4702x,2018-10-17,Glenn,Robinson III
+SF/PF,"Hill, Solomon",7.5,"$3,500",nor,@ hou,131-112,12:02,3pt 2rb 1as 1trey 1-3fg,dk,4566x,2018-10-17,Solomon,Hill
+SF,"Kurucs, Rodions",5.75,"$3,200",bkn,@ det,100-103,10:37,3pt 1rb 1as 1to 1trey 1-2fg,dk,5735x,2018-10-17,Rodions,Kurucs
+SF/PF,"Tolliver, Anthony",5.5,"$3,600",min,@ sas,108-112,19:03,0pt 2rb 2as 0-1fg,dk,4049x,2018-10-17,Anthony,Tolliver
+SF/PF,"Anunoby, OG",5.5,"$3,700",tor,v cle,116-104,17:32,4pt 1st 1to 2-3fg,dk,5241x,2018-10-17,OG,Anunoby
+SG/SF,"Graham, Treveon",5.5,"$3,000",bkn,@ det,100-103,17:25,0pt 2rb 1as 1st 1to 0-2fg,dk,4804x,2018-10-17,Treveon,Graham
+SG/SF,"Powell, Norman",5.5,"$3,400",tor,v cle,116-104,12:25,5pt 1trey 2-3fg,dk,4792x,2018-10-17,Norman,Powell
+SG/SF,"Green, Gerald",5.25,"$3,600",hou,v nor,112-131,10:28,0pt 1rb 1st 1bl 0-4fg,dk,3760x,2018-10-17,Gerald,Green
+SF/PF,"Thomas, Lance^",5,"$3,700",nyk,v atl,126-107,15:30,3pt 1bl 1to 1trey 1-2fg,dk,4384x,2018-10-17,Lance,Thomas
+SF/PF,"Mbah a Moute, Luc",4.75,"$3,000",lac,v den,98-107,9:13,0pt 1rb 1as 1st 0-5fg 0-2ft,dk,4113x,2018-10-17,Luc,Mbah a Moute
+SG/SF,"Miles, C.J.",4.75,"$3,800",tor,v cle,116-104,10:23,3pt 1rb 1trey 1-3fg 0-2ft,dk,3783x,2018-10-17,C.J.,Miles
+SG/SF,"Snell, Tony",4,"$3,400",mil,@ cha,113-112,11:20,0pt 2rb 1as 0-2fg,dk,4571x,2018-10-17,Tony,Snell
+SG/SF,"Huerter, Kevin",3.75,"$3,000",atl,@ nyk,107-126,4:35,0pt 3rb 0-1fg,dk,5754x,2018-10-17,Kevin,Huerter
+SG/SF,"Broekhoff, Ryan",3.5,"$3,000",dal,@ pho,100-121,3:59,3pt 1trey 1-3fg,dk,5666x,2018-10-17,Ryan,Broekhoff
+SG/SF,"Korver, Kyle",3.5,"$3,600",cle,@ tor,104-116,14:01,3pt 1trey 1-2fg,dk,3547x,2018-10-17,Kyle,Korver
+SF,"O'Neale, Royce",2.5,"$3,600",uta,@ sac,123-117,6:36,0pt 2rb 0-4fg,dk,5182x,2018-10-17,Royce,O'Neale
+SF/PF,"Miller, Darius",2.5,"$3,700",nor,@ hou,131-112,19:56,0pt 1as 1st 2to 0-2fg,dk,4484x,2018-10-17,Darius,Miller
+SF/PF,"Cunningham, Dante",2.25,"$3,400",sas,v min,112-108,6:36,0pt 1rb 1as 1to 0-2fg,dk,4226x,2018-10-17,Dante,Cunningham
+SF/PF,"Bridges, Miles",2,"$4,500",cha,v mil,112-113,14:30,1pt 1as 1to 0-1fg 1-2ft,dk,5657x,2018-10-17,Miles,Bridges
+SG/SF,"Williams, Kenrich",0,"$3,000",nor,@ hou,131-112,1:35,0pt,dk,5688x,2018-10-17,Kenrich,Williams
+PF,"Spalding, Ray",0,"$3,000",dal,@ pho,100-121,00:54,0pt,dk,5667x,2018-10-17,Ray,Spalding
+SF/PF,"Scott, Mike",0,"$3,300",lac,v den,98-107,3:59,0pt 0-1fg,dk,4488x,2018-10-17,Mike,Scott
+PF,"Hartenstein, Isaiah",0,"$3,400",hou,v nor,112-131,1:35,0pt,dk,5746x,2018-10-17,Isaiah,Hartenstein
+SF/PF,"Clark, Gary",0,"$3,000",hou,v nor,112-131,1:35,0pt,dk,5724x,2018-10-17,Gary,Clark
+SG/SF,"Bridges, Mikal",0,"$3,700",pho,v dal,121-100,00:11,0pt,dk,5712x,2018-10-17,Mikal,Bridges
+SG/SF,"Holland, John",0,"$3,000",cle,@ tor,104-116,00:44,0pt,dk,4900x,2018-10-17,John,Holland
+SG/SF,"Brown, Sterling",0,"$3,300",mil,@ cha,113-112,00:07,0pt,dk,5184x,2018-10-17,Sterling,Brown
+SG/SF,"Nwaba, David",0,"$3,400",cle,@ tor,104-116,1:42,0pt,dk,5109x,2018-10-17,David,Nwaba
+SF/PF,"Niang, Georges",0,"$3,000",uta,@ sac,123-117,1:59,0pt,dk,5015x,2018-10-17,Georges,Niang
+SG/SF,"Brooks, Dillon",-0.5,"$4,800",mem,@ ind,83-111,6:17,0pt 1to 0-1fg,dk,5173x,2018-10-17,Dillon,Brooks
+PF/C,"Davis, Anthony^",77,"$11,100",nor,@ hou,131-112,39:07,32pt 16rb 8as 3st 3bl 1to 13-21fg 6-7ft,dk,4482x,2018-10-17,Anthony,Davis
+PF/C,"Aldridge, LaMarcus^",56.25,"$7,300",sas,v min,112-108,41:39,21pt 19rb 2as 1st 3bl 2to 7-23fg 7-10ft,dk,3860x,2018-10-17,LaMarcus,Aldridge
+C,"Drummond, Andre^",54,"$9,500",det,v bkn,103-100,32:12,24pt 20rb 2as 1bl 4to 1trey 10-21fg 3-4ft,dk,4489x,2018-10-17,Andre,Drummond
+PF/C,"Griffin, Blake^",45,"$8,200",det,v bkn,103-100,34:17,26pt 8rb 6as 1to 1trey 8-17fg 9-11ft,dk,4172x,2018-10-17,Blake,Griffin
+C,"Ayton, Deandre^",45,"$6,900",pho,v dal,121-100,36:29,18pt 10rb 6as 1st 1bl 8-11fg 2-2ft,dk,5713x,2018-10-17,Deandre,Ayton
+C,"Gobert, Rudy^",44.25,"$7,800",uta,@ sac,123-117,37:16,19pt 15rb 3bl 2to 7-9fg 5-5ft,dk,4620x,2018-10-17,Rudy,Gobert
+C,"Cauley-Stein, Willie^",43.75,"$5,600",sac,v uta,117-123,38:25,23pt 7rb 4as 1st 2bl 10-15fg 3-6ft,dk,4817x,2018-10-17,Willie,Cauley-Stein
+C,"Jokic, Nikola^",42,"$9,900",den,@ lac,107-98,33:32,21pt 8rb 5as 1st 1bl 2to 1trey 6-13fg 8-10ft,dk,4772x,2018-10-17,Nikola,Jokic
+C,"Whiteside, Hassan^",41.5,"$7,300",mia,@ orl,101-104,33:35,12pt 18rb 1st 2bl 1to 6-15fg 0-1ft,dk,4324x,2018-10-17,Hassan,Whiteside
+PF/C,"Randle, Julius",40.5,"$6,800",nor,@ hou,131-112,23:49,25pt 8rb 3as 2trey 9-15fg 5-6ft,dk,4680x,2018-10-17,Julius,Randle
+C,"Kanter, Enes^",39.25,"$7,200",nyk,v atl,126-107,27:12,16pt 11rb 3as 1st 1bl 1to 5-9fg 6-7ft,dk,4442x,2018-10-17,Enes,Kanter
+C,"Allen, Jarrett^",39,"$5,700",bkn,@ det,100-103,30:09,17pt 10rb 4bl 2to 2trey 6-10fg 3-4ft,dk,5139x,2018-10-17,Jarrett,Allen
+PF/C,"Sabonis, Domantas",35.75,"$5,700",ind,v mem,111-83,28:33,14pt 15rb 2as 3to 7-11fg 0-2ft,dk,4921x,2018-10-17,Domantas,Sabonis
+PF/C,"Millsap, Paul^",35.5,"$6,800",den,@ lac,107-98,30:19,11pt 16rb 1st 1bl 2to 1-7fg 9-12ft,dk,3904x,2018-10-17,Paul,Millsap
+C,"Jordan, DeAndre^",33,"$7,700",dal,@ pho,100-121,30:31,11pt 12rb 1as 1st 1bl 5-9fg 1-1ft,dk,4107x,2018-10-17,DeAndre,Jordan
+C,"Gasol, Marc^",32,"$6,600",mem,@ ind,83-111,30:11,13pt 6rb 3as 3st 2trey 2-11fg 7-8ft,dk,3990x,2018-10-17,Marc,Gasol
+PF/C,"Love, Kevin^",31.75,"$8,600",cle,@ tor,104-116,34:05,21pt 7rb 2as 3to 1trey 5-18fg 10-14ft,dk,4074x,2018-10-17,Kevin,Love
+PF/C,"Favors, Derrick^",31.75,"$5,600",uta,@ sac,123-117,23:33,18pt 9rb 1as 1bl 2to 7-8fg 4-8ft,dk,4280x,2018-10-17,Derrick,Favors
+PF/C,"Vonleh, Noah",30.5,"$3,500",nyk,v atl,126-107,16:22,12pt 10rb 3as 5-5fg 2-4ft,dk,4761x,2018-10-17,Noah,Vonleh
+PF/C,"Ibaka, Serge",28.75,"$5,200",tor,v cle,116-104,27:11,9pt 7rb 1as 2st 3bl 2to 1trey 2-10fg 4-6ft,dk,4104x,2018-10-17,Serge,Ibaka
+C,"Vucevic, Nikola^",28,"$7,100",orl,v mia,104-101,28:07,12pt 8rb 4as 1st 4to 4-12fg 4-5ft,dk,4373x,2018-10-17,Nikola,Vucevic
+PF/C,"Ilyasova, Ersan",27.75,"$4,300",mil,@ cha,113-112,29:00,13pt 9rb 2as 1trey 6-9fg,dk,3765x,2018-10-17,Ersan,Ilyasova
+PF/C,"Dieng, Gorgui",27.25,"$3,500",min,@ sas,108-112,24:03,12pt 5rb 2as 2st 1bl 4-8fg 4-6ft,dk,4632x,2018-10-17,Gorgui,Dieng
+C,"Marjanovic, Boban",27,"$3,100",lac,v den,98-107,17:51,18pt 8rb 2to 6-8fg 6-6ft,dk,4893x,2018-10-17,Boban,Marjanovic
+C,"Turner, Myles^",27,"$6,000",ind,v mem,111-83,20:22,8pt 8rb 1as 4bl 1to 4-8fg,dk,4781x,2018-10-17,Myles,Turner
+PF/C,"Powell, Dwight",26.25,"$4,700",dal,@ pho,100-121,17:29,16pt 5rb 1st 1bl 6-8fg 4-6ft,dk,4674x,2018-10-17,Dwight,Powell
+C,"Bamba, Mohamed",26.25,"$4,700",orl,v mia,104-101,24:58,13pt 7rb 2bl 1trey 6-8fg 0-2ft,dk,5706x,2018-10-17,Mohamed,Bamba
+C,"Pachulia, Zaza",25.75,"$3,000",det,v bkn,103-100,14:43,6pt 7rb 4as 2st 1bl 2to 2-6fg 2-2ft,dk,3553x,2018-10-17,Zaza,Pachulia
+C,"Valanciunas, Jonas^",25.5,"$5,900",tor,v cle,116-104,20:24,6pt 12rb 3as 3-8fg,dk,4497x,2018-10-17,Jonas,Valanciunas
+PF/C,"Adebayo, Bam",23.5,"$5,000",mia,@ orl,101-104,22:00,9pt 8rb 2as 1st 1to 4-9fg 1-2ft,dk,5159x,2018-10-17,Bam,Adebayo
+C,"Towns, Karl-Anthony^",22.75,"$9,800",min,@ sas,108-112,22:23,8pt 9rb 3as 3to 1trey 2-6fg 3-3ft,dk,4879x,2018-10-17,Karl-Anthony,Towns
+C,"Gasol, Pau",22.75,"$5,300",sas,v min,112-108,22:41,5pt 7rb 6as 1to 1trey 1-4fg 2-2ft,dk,3308x,2018-10-17,Pau,Gasol
+PF/C,"Davis, Ed",22.25,"$3,900",bkn,@ det,100-103,17:36,8pt 7rb 3as 1st 2to 4-4fg 0-1ft,dk,4276x,2018-10-17,Ed,Davis
+C,"Lopez, Brook^",21.25,"$4,800",mil,@ cha,113-112,21:27,14pt 3rb 1as 1st 2to 2trey 4-7fg 4-4ft,dk,4075x,2018-10-17,Brook,Lopez
+C,"Capela, Clint^",21,"$7,200",hou,v nor,112-131,26:11,8pt 8rb 1as 1bl 1to 4-9fg,dk,4766x,2018-10-17,Clint,Capela
+PF/C,"Thompson, Tristan^",18.75,"$4,700",cle,@ tor,104-116,27:05,3pt 13rb 1as 4to 1-5fg 1-2ft,dk,4380x,2018-10-17,Tristan,Thompson
+PF/C,"Harrell, Montrezl",17.75,"$4,500",lac,v den,98-107,16:19,6pt 5rb 1as 2bl 2-8fg 2-2ft,dk,4857x,2018-10-17,Montrezl,Harrell
+C,"Hernangomez, Guillermo",16.75,"$5,200",cha,v mil,112-113,12:16,9pt 5rb 1st 1to 3-5fg 3-5ft,dk,4949x,2018-10-17,Guillermo,Hernangomez
+C,"Gortat, Marcin^",16.5,"$4,700",lac,v den,98-107,18:10,6pt 6rb 2as 3-5fg,dk,3756x,2018-10-17,Marcin,Gortat
+C,"Len, Alex^",15.5,"$5,600",atl,@ nyk,107-126,21:26,7pt 4rb 2as 1bl 3to 3-6fg 1-2ft,dk,4591x,2018-10-17,Alex,Len
+PF/C,"Spellman, Omari",15.25,"$4,300",atl,@ nyk,107-126,8:19,7pt 3rb 1st 1bl 1trey 3-4fg,dk,5755x,2018-10-17,Omari,Spellman
+PF/C,"Anderson, Ryan^",14.75,"$4,200",pho,v dal,121-100,24:01,2pt 7rb 3as 1to 1-4fg,dk,4085x,2018-10-17,Ryan,Anderson
+PF/C,"Bertans, Davis",14.75,"$3,700",sas,v min,112-108,17:50,9pt 1rb 2as 3trey 3-4fg,dk,4989x,2018-10-17,Davis,Bertans
+PF/C,"Plumlee, Mason",14.25,"$4,400",den,@ lac,107-98,13:22,2pt 3rb 2as 3bl 1to 1-3fg 0-2ft,dk,4607x,2018-10-17,Mason,Plumlee
+C,"Zeller, Cody^",12.75,"$4,100",cha,v mil,112-113,21:06,5pt 3rb 1as 1st 1trey 1-1fg 2-2ft,dk,4614x,2018-10-17,Cody,Zeller
+C,"Henson, John",12.5,"$3,900",mil,@ cha,113-112,12:00,4pt 6rb 1bl 2to 1-3fg 2-2ft,dk,4525x,2018-10-17,John,Henson
+PF/C,"Bagley, Marvin",12.25,"$5,200",sac,v uta,117-123,12:07,6pt 5rb 3-6fg,dk,5714x,2018-10-17,Marvin,Bagley
+C,"Poeltl, Jakob^",12,"$4,200",sas,v min,112-108,7:52,4pt 4rb 2as 2-4fg,dk,5004x,2018-10-17,Jakob,Poeltl
+C,"Zizic, Ante",11.75,"$3,500",cle,@ tor,104-116,14:24,5pt 3rb 2as 2-2fg 1-2ft,dk,5119x,2018-10-17,Ante,Zizic
+PF/C,"O'Quinn, Kyle",10.25,"$3,300",ind,v mem,111-83,3:58,2pt 3rb 3as 2-2ft,dk,4529x,2018-10-17,Kyle,O'Quinn
+C,"Chandler, Tyson",8.25,"$3,500",pho,v dal,121-100,11:31,0pt 5rb 1st,dk,3307x,2018-10-17,Tyson,Chandler
+C,"Plumlee, Miles",7,"$3,800",atl,@ nyk,107-126,9:22,7pt 2-2fg 3-3ft,dk,4542x,2018-10-17,Miles,Plumlee
+PF/C,"Wood, Christian",4.75,"$3,000",mil,@ cha,113-112,4:57,3pt 1rb 1trey 1-1fg,dk,4834x,2018-10-17,Christian,Wood
+PF/C,"Olynyk, Kelly",4.75,"$6,100",mia,@ orl,101-104,15:25,4pt 1rb 1to 1-4fg 2-2ft,dk,4583x,2018-10-17,Kelly,Olynyk
+PF/C,"Giles, Harry",4.25,"$4,800",sac,v uta,117-123,9:38,2pt 1rb 1as 1to 1-2fg,dk,5167x,2018-10-17,Harry,Giles
+PF/C,"Diallo, Cheick",2.5,"$3,400",nor,@ hou,131-112,1:35,0pt 2rb,dk,4957x,2018-10-17,Cheick,Diallo
+C,"Robinson, Mitchell",2,"$3,300",nyk,v atl,126-107,1:18,2pt 1-1fg,dk,5700x,2018-10-17,Mitchell,Robinson
+PF/C,"Leaf, TJ",0,"$3,900",ind,v mem,111-83,00:58,0pt,dk,5160x,2018-10-17,TJ,Leaf
+C,"Okafor, Jahlil",-1,"$3,000",nor,@ hou,131-112,1:35,0pt 2to,dk,4836x,2018-10-17,Jahlil,Okafor
+PG/SF,"Simmons, Ben^",61.75,"$8,400",phi,@ bos,87-105,42:45,19pt 15rb 8as 4st 2bl 3to 7-14fg 5-11ft,dk,4925x,2018-10-16,Ben,Simmons
+PG/SG,"Curry, Stephen^",58.5,"$8,600",gsw,v okc,108-100,36:37,32pt 8rb 9as 1st 3to 5trey 11-20fg 5-5ft,dk,4173x,2018-10-16,Stephen,Curry
+PG/SG,"Schroder, Dennis^",46.75,"$6,300",okc,@ gsw,100-108,34:05,21pt 9rb 6as 2st 1bl 3to 2trey 7-19fg 5-6ft,dk,4595x,2018-10-16,Dennis,Schroder
+PG/SG,"Rozier, Terry",24.5,"$4,500",bos,v phi,105-87,26:31,11pt 8rb 1as 1bl 1to 1trey 5-10fg,dk,4823x,2018-10-16,Terry,Rozier
+PG,"Irving, Kyrie^",21.5,"$7,600",bos,v phi,105-87,29:00,7pt 4rb 7as 3to 1trey 2-14fg 2-2ft,dk,4379x,2018-10-16,Kyrie,Irving
+SG,"Thompson, Klay^",18.5,"$5,900",gsw,v okc,108-100,34:59,14pt 4rb 2to 1trey 5-20fg 3-3ft,dk,4367x,2018-10-16,Klay,Thompson
+PG/SG,"Smart, Marcus",15.25,"$4,400",bos,v phi,105-87,25:01,7pt 3rb 3as 2to 2trey 2-4fg 1-2ft,dk,4677x,2018-10-16,Marcus,Smart
+PG,"Livingston, Shaun",12.75,"$3,500",gsw,v okc,108-100,14:34,6pt 3rb 1as 1st 1to 3-5fg,dk,3651x,2018-10-16,Shaun,Livingston
+PG/SG,"Fultz, Markelle^",12.25,"$5,000",phi,@ bos,87-105,24:20,5pt 3rb 2as 1st 3to 2-7fg 1-2ft,dk,5131x,2018-10-16,Markelle,Fultz
+PG/SG,"Felton, Raymond",10.25,"$3,700",okc,@ gsw,100-108,13:55,6pt 3rb 1as 2to 1-5fg 4-5ft,dk,3747x,2018-10-16,Raymond,Felton
+PG/SG,"McConnell, T.J.",9.75,"$3,200",phi,@ bos,87-105,22:26,4pt 1rb 3as 2-5fg,dk,4831x,2018-10-16,T.J.,McConnell
+PG,"Cook, Quinn",5.75,"$3,200",gsw,v okc,108-100,13:12,3pt 1rb 1as 1to 1trey 1-2fg,dk,4863x,2018-10-16,Quinn,Cook
+PG,"Wanamaker, Brad",3.25,"$3,000",bos,v phi,105-87,00:49,2pt 1rb 1-1fg,dk,5659x,2018-10-16,Brad,Wanamaker
+PG/SG,"Shamet, Landry",2.25,"$3,000",phi,@ bos,87-105,12:42,1pt 1rb 0-4fg 1-2ft,dk,5704x,2018-10-16,Landry,Shamet
+SG,"Korkmaz, Furkan",0,"$3,000",phi,@ bos,87-105,1:27,0pt,dk,5157x,2018-10-16,Furkan,Korkmaz
+SF/PF,"Durant, Kevin^",48.5,"$9,000",gsw,v okc,108-100,37:43,27pt 8rb 6as 1st 1bl 3to 9-21fg 9-10ft,dk,3986x,2018-10-16,Kevin,Durant
+SF/PF,"George, Paul^",44.5,"$8,000",okc,@ gsw,100-108,37:24,27pt 2rb 5as 4st 5to 4trey 9-23fg 5-8ft,dk,4283x,2018-10-16,Paul,George
+SF/PF,"Tatum, Jayson^",40.75,"$5,600",bos,v phi,105-87,28:56,23pt 9rb 3as 1st 1to 1trey 9-17fg 4-5ft,dk,5111x,2018-10-16,Jayson,Tatum
+SF/PF,"Morris, Marcus",34.5,"$4,200",bos,v phi,105-87,20:30,16pt 10rb 2st 1to 2trey 7-12fg,dk,4407x,2018-10-16,Marcus,Morris
+SG/SF,"Hayward, Gordon^",24.75,"$6,500",bos,v phi,105-87,24:37,10pt 5rb 4st 1trey 4-12fg 1-2ft,dk,4285x,2018-10-16,Gordon,Hayward
+SF/PF,"Covington, Robert^",21.5,"$4,700",phi,@ bos,87-105,34:12,8pt 6rb 2st 1bl 2to 2trey 3-10fg,dk,4570x,2018-10-16,Robert,Covington
+SG/SF,"Redick, J.J.",21,"$4,900",phi,@ bos,87-105,29:46,16pt 2rb 1as 2trey 7-17fg,dk,3861x,2018-10-16,J.J.,Redick
+SG/SF,"Brown, Jaylen^",20.75,"$5,300",bos,v phi,105-87,28:23,12pt 5rb 2as 2to 1trey 5-13fg 1-2ft,dk,5017x,2018-10-16,Jaylen,Brown
+SF/PF,"Grant, Jerami",19,"$4,300",okc,@ gsw,100-108,29:07,7pt 2rb 2as 3bl 1trey 2-7fg 2-4ft,dk,4765x,2018-10-16,Jerami,Grant
+SF/PF,"Saric, Dario^",13.5,"$5,500",phi,@ bos,87-105,22:55,6pt 6rb 1as 3to 3-8fg,dk,4904x,2018-10-16,Dario,Saric
+SG/SF,"Abrines, Alex",11.5,"$3,200",okc,@ gsw,100-108,23:28,8pt 2rb 2trey 3-8fg,dk,4943x,2018-10-16,Alex,Abrines
+SG/SF,"Diallo, Hamidou",8.75,"$3,100",okc,@ gsw,100-108,8:37,4pt 1rb 1as 1st 2-4fg 0-1ft,dk,5737x,2018-10-16,Hamidou,Diallo
+SG/SF,"Iguodala, Andre",7.5,"$4,000",gsw,v okc,108-100,10:23,2pt 2rb 2as 1-2fg,dk,3641x,2018-10-16,Andre,Iguodala
+SG/SF,"Ferguson, Terrance^",6,"$3,300",okc,@ gsw,100-108,26:31,0pt 4rb 1as 1to 0-2fg,dk,5225x,2018-10-16,Terrance,Ferguson
+SF/PF,"Jerebko, Jonas",3.25,"$3,400",gsw,v okc,108-100,6:10,0pt 3rb 1to,dk,4187x,2018-10-16,Jonas,Jerebko
+SF/PF,"Ojeleye, Semi",1.25,"$3,000",bos,v phi,105-87,1:27,0pt 1rb,dk,5115x,2018-10-16,Semi,Ojeleye
+SF/PF,"McKinnie, Alfonzo",0,"$3,000",gsw,v okc,108-100,2:21,0pt 0-1fg,dk,5230x,2018-10-16,Alfonzo,McKinnie
+C,"Embiid, Joel^",44,"$8,800",phi,@ bos,87-105,36:49,23pt 10rb 2as 1st 2bl 5to 1trey 9-21fg 4-5ft,dk,4762x,2018-10-16,Joel,Embiid
+C,"Adams, Steven^",41.25,"$5,800",okc,@ gsw,100-108,35:36,17pt 11rb 4as 2st 2to 6-12fg 5-8ft,dk,4574x,2018-10-16,Steven,Adams
+PF/C,"Looney, Kevon",32.5,"$3,600",gsw,v okc,108-100,18:04,10pt 10rb 2as 1st 2bl 1to 5-11fg,dk,4820x,2018-10-16,Kevon,Looney
+PF/C,"Green, Draymond^",28.75,"$7,300",gsw,v okc,108-100,32:45,2pt 13rb 5as 3st 6to 1-6fg,dk,4504x,2018-10-16,Draymond,Green
+PF/C,"Horford, Al^",25.5,"$6,100",bos,v phi,105-87,29:57,9pt 4rb 2as 5bl 3to 4-7fg 1-1ft,dk,3998x,2018-10-16,Al,Horford
+C,"Jones, Damian^",23.75,"$3,000",gsw,v okc,108-100,26:33,12pt 3rb 2as 3bl 2to 6-7fg,dk,4933x,2018-10-16,Damian,Jones
+C,"Baynes, Aron",18,"$3,900",bos,v phi,105-87,19:14,8pt 4rb 3as 1to 2trey 3-7fg,dk,4556x,2018-10-16,Aron,Baynes
+C,"Noel, Nerlens",17.25,"$3,600",okc,@ gsw,100-108,12:24,3pt 7rb 1as 1st 1bl 1-2fg 1-2ft,dk,4652x,2018-10-16,Nerlens,Noel
+PF/C,"Patterson, Patrick^",17.25,"$3,800",okc,@ gsw,100-108,18:53,7pt 5rb 1st 1bl 1to 1trey 2-9fg 2-3ft,dk,4302x,2018-10-16,Patrick,Patterson
+PF/C,"Johnson, Amir",10.25,"$3,100",phi,@ bos,87-105,11:11,5pt 3rb 1as 1-1fg 3-4ft,dk,3768x,2018-10-16,Amir,Johnson
+PF/C,"Bell, Jordan",4.5,"$4,100",gsw,v okc,108-100,6:39,0pt 2rb 1bl,dk,5125x,2018-10-16,Jordan,Bell
+PF/C,"Theis, Daniel",1.25,"$3,500",bos,v phi,105-87,4:08,0pt 1rb,dk,5114x,2018-10-16,Daniel,Theis
+PF/C,"Bolden, Jonah",0,"$3,000",phi,@ bos,87-105,1:27,0pt,dk,5255x,2018-10-16,Jonah,Bolden
+PF/C,"Yabusele, Guerschon",0,"$3,000",bos,v phi,105-87,1:27,0pt,dk,5118x,2018-10-16,Guerschon,Yabusele
